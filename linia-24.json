@@ -1,0 +1,517 @@
+{
+  "line": "24",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-24/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-06-29",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-24.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 24 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 244 KB]",
+      "directions": [
+        {
+          "name": "Kórnicka/Szkoła → Lipowa/Szkoła",
+          "origin": "Kórnicka/Szkoła",
+          "destination": "Lipowa/Szkoła",
+          "courses": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "stops": [
+            {
+              "name": "Kórnicka/Szkoła",
+              "times": [
+                null,
+                null,
+                "15:27",
+                "16:55"
+              ]
+            },
+            {
+              "name": "Paderewskiego/Jackowskiego",
+              "times": [
+                null,
+                null,
+                "15:29",
+                "16:57"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "06:15",
+                "10:15",
+                "15:30",
+                "16:58"
+              ]
+            },
+            {
+              "name": "Kościuszki/Szkoła",
+              "times": [
+                null,
+                null,
+                "15:32",
+                "17:00"
+              ]
+            },
+            {
+              "name": "Kościuszki/Park",
+              "times": [
+                "06:17",
+                "10:17",
+                "15:33",
+                "17:01"
+              ]
+            },
+            {
+              "name": "Kilińskiego/Orlen",
+              "times": [
+                "06:18",
+                "10:18",
+                "15:34",
+                "17:02"
+              ]
+            },
+            {
+              "name": "Weychana/Akademia",
+              "times": [
+                "06:19",
+                "10:19",
+                "15:35",
+                "17:03"
+              ]
+            },
+            {
+              "name": "Topolska/Os. Wyszyńskiego",
+              "times": [
+                "06:20",
+                "10:20",
+                "15:36",
+                "17:04"
+              ]
+            },
+            {
+              "name": "Topolska/Dino",
+              "times": [
+                "06:21",
+                "10:21",
+                "15:37",
+                "17:05"
+              ]
+            },
+            {
+              "name": "Topola",
+              "times": [
+                "06:23",
+                "10:23",
+                "15:39",
+                "17:07"
+              ]
+            },
+            {
+              "name": "Jarosławiec/Szkoła",
+              "times": [
+                null,
+                "10:26",
+                "15:42",
+                null
+              ]
+            },
+            {
+              "name": "Jarosławiec/Kościół",
+              "times": [
+                null,
+                "10:28",
+                "15:44",
+                null
+              ]
+            },
+            {
+              "name": "Jarosławiec/Szkoła",
+              "times": [
+                null,
+                "10:30",
+                "15:46",
+                null
+              ]
+            },
+            {
+              "name": "Jarosławiec/skrzyżowanie",
+              "times": [
+                "06:25",
+                "10:31",
+                "15:47",
+                "17:09"
+              ]
+            },
+            {
+              "name": "Bieganowo",
+              "times": [
+                "06:28",
+                "10:34",
+                "15:50",
+                "17:12"
+              ]
+            },
+            {
+              "name": "Krerowo",
+              "times": [
+                "06:31",
+                "10:37",
+                "15:53",
+                "17:15"
+              ]
+            },
+            {
+              "name": "Krerowo Cmentarz",
+              "times": [
+                "06:32",
+                "10:38",
+                "15:54",
+                null
+              ]
+            },
+            {
+              "name": "Zimin Nowy Świat",
+              "times": [
+                "06:33",
+                "10:39",
+                "15:55",
+                null
+              ]
+            },
+            {
+              "name": "Zimin",
+              "times": [
+                "06:35",
+                "10:41",
+                "15:57",
+                null
+              ]
+            },
+            {
+              "name": "Zimin Szkoła",
+              "times": [
+                "06:36",
+                "10:42",
+                "15:58",
+                null
+              ]
+            },
+            {
+              "name": "Śródka II",
+              "times": [
+                "06:38",
+                "10:44",
+                "16:00",
+                null
+              ]
+            },
+            {
+              "name": "Śródka I",
+              "times": [
+                "06:39",
+                "10:45",
+                "16:01",
+                null
+              ]
+            },
+            {
+              "name": "Śródka",
+              "times": [
+                "06:40",
+                "10:46",
+                "16:02",
+                null
+              ]
+            },
+            {
+              "name": "Krzyżowniki",
+              "times": [
+                "06:41",
+                "10:47",
+                "16:03",
+                null
+              ]
+            },
+            {
+              "name": "Krzyżowniki I",
+              "times": [
+                "06:42",
+                "10:48",
+                "16:04",
+                null
+              ]
+            },
+            {
+              "name": "Komorniki",
+              "times": [
+                "06:46",
+                "10:52",
+                "16:08",
+                null
+              ]
+            },
+            {
+              "name": "Bylin",
+              "times": [
+                "06:48",
+                "10:54",
+                "16:10",
+                null
+              ]
+            },
+            {
+              "name": "Nagradowice",
+              "times": [
+                "06:50",
+                "10:56",
+                "16:12",
+                null
+              ]
+            },
+            {
+              "name": "Kleszczewo I",
+              "times": [
+                "06:53",
+                "10:59",
+                "16:15",
+                null
+              ]
+            },
+            {
+              "name": "Kleszczewo",
+              "times": [
+                "06:55",
+                "11:01",
+                "16:17",
+                null
+              ]
+            },
+            {
+              "name": "Kleszczewo Park",
+              "times": [
+                "06:56",
+                "11:02",
+                "16:18",
+                null
+              ]
+            },
+            {
+              "name": "Lipowiec",
+              "times": [
+                "06:59",
+                "11:05",
+                "16:21",
+                null
+              ]
+            },
+            {
+              "name": "Bugaj",
+              "times": [
+                "07:00",
+                "11:06",
+                "16:22",
+                null
+              ]
+            },
+            {
+              "name": "Markowice",
+              "times": [
+                "07:06",
+                null,
+                "16:28",
+                null
+              ]
+            },
+            {
+              "name": "Markowice I",
+              "times": [
+                "07:07",
+                null,
+                "16:29",
+                null
+              ]
+            },
+            {
+              "name": "Krerowo I",
+              "times": [
+                "07:10",
+                "11:10",
+                "16:32",
+                null
+              ]
+            },
+            {
+              "name": "Krerowo",
+              "times": [
+                "07:11",
+                "11:11",
+                "16:33",
+                null
+              ]
+            },
+            {
+              "name": "Bieganowo",
+              "times": [
+                "07:14",
+                "11:14",
+                "16:36",
+                "17:18"
+              ]
+            },
+            {
+              "name": "Jarosławiec/Szkoła",
+              "times": [
+                "07:18",
+                "11:18",
+                null,
+                "17:22"
+              ]
+            },
+            {
+              "name": "Jarosławiec/Kościół",
+              "times": [
+                "07:20",
+                "11:20",
+                null,
+                "17:24"
+              ]
+            },
+            {
+              "name": "Januszewo",
+              "times": [
+                null,
+                null,
+                null,
+                "17:27"
+              ]
+            },
+            {
+              "name": "Januszewo I",
+              "times": [
+                null,
+                null,
+                null,
+                "17:28"
+              ]
+            },
+            {
+              "name": "Jarosławiec/Szkoła",
+              "times": [
+                "07:22",
+                "11:22",
+                null,
+                "17:31"
+              ]
+            },
+            {
+              "name": "Jarosławiec/skrzyżowanie",
+              "times": [
+                "07:23",
+                "11:23",
+                "16:39",
+                "17:32"
+              ]
+            },
+            {
+              "name": "Topola",
+              "times": [
+                "07:25",
+                "11:25",
+                "16:41",
+                "17:34"
+              ]
+            },
+            {
+              "name": "Topolska/Os. Błękitne",
+              "times": [
+                "07:26",
+                "11:26",
+                "16:42",
+                "17:35"
+              ]
+            },
+            {
+              "name": "Weychana/Inter Marche",
+              "times": [
+                "07:28",
+                "11:28",
+                "16:44",
+                "17:37"
+              ]
+            },
+            {
+              "name": "Kilińskiego/Pomnik",
+              "times": [
+                "07:31",
+                "11:31",
+                "16:47",
+                "17:40"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "07:33",
+                "11:33",
+                "16:49",
+                "17:42"
+              ]
+            },
+            {
+              "name": "Paderewskiego/Pływalnia",
+              "times": [
+                "07:34",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Kórnicka/Szkoła",
+              "times": [
+                "07:36",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Kościuszki/Szkoła",
+              "times": [
+                "07:39",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "07:41",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Lipowa/Szkoła",
+              "times": [
+                "07:43",
+                null,
+                null,
+                null
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

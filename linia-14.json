@@ -1,0 +1,158 @@
+{
+  "line": "14",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-14/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-06-29",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-14.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 14 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 124 KB]",
+      "directions": [
+        {
+          "name": "Dworzec PKS → Pętkowo → Dworzec PKS",
+          "origin": "Dworzec PKS",
+          "destination": "Dworzec PKS",
+          "courses": [
+            "1",
+            "2",
+            "3"
+          ],
+          "stops": [
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "09:18",
+                "12:40",
+                "17:18"
+              ]
+            },
+            {
+              "name": "Paderewskiego/Pływalnia",
+              "times": [
+                "09:19",
+                "12:41",
+                "17:19"
+              ]
+            },
+            {
+              "name": "Kórnicka/Solaris",
+              "times": [
+                "09:21",
+                "12:43",
+                "17:21"
+              ]
+            },
+            {
+              "name": "Żabikowo/DK11",
+              "times": [
+                "09:24",
+                "12:46",
+                "17:24"
+              ]
+            },
+            {
+              "name": "Koszuty/Park",
+              "times": [
+                "09:28",
+                "12:50",
+                "17:28"
+              ]
+            },
+            {
+              "name": "Koszuty/Lorenka",
+              "times": [
+                "09:31",
+                "12:53",
+                "17:31"
+              ]
+            },
+            {
+              "name": "Słupia Wielka/Szkoła",
+              "times": [
+                "09:33",
+                "12:55",
+                "17:33"
+              ]
+            },
+            {
+              "name": "Słupia Wielka",
+              "times": [
+                "09:34",
+                "12:56",
+                "17:34"
+              ]
+            },
+            {
+              "name": "Pętkowo",
+              "times": [
+                "09:37",
+                "12:59",
+                "17:37"
+              ]
+            },
+            {
+              "name": "Kijewo/DW432",
+              "times": [
+                "09:40",
+                "13:02",
+                "17:40"
+              ]
+            },
+            {
+              "name": "Kijewo",
+              "times": [
+                "09:44",
+                "13:06",
+                "17:44"
+              ]
+            },
+            {
+              "name": "Kijewo/Hortex",
+              "times": [
+                "09:45",
+                "13:07",
+                "17:45"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Działki",
+              "times": [
+                "09:48",
+                "13:10",
+                "17:48"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Biedronka",
+              "times": [
+                "09:49",
+                "13:11",
+                "17:49"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "09:50",
+                "13:12",
+                "17:50"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "09:52",
+                "13:14",
+                "17:52"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

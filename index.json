@@ -1,0 +1,223 @@
+{
+  "lastUpdated": "2026-08-04T20:51:16Z",
+  "source": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/",
+  "lines": [
+    {
+      "line": "1",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-1.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "2",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-2.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "4",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-4.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "5",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-5.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "6",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-6.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "7",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-7.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "8",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-8.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "10",
+      "status": "suspended",
+      "dayTypes": [],
+      "file": "linia-10.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z",
+      "note": "Linia zawieszona - brak rozkładu na stronie gminy."
+    },
+    {
+      "line": "11",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-11.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "12",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-12.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "13",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-13.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "14",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-14.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "15",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-15.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "16",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-16.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "17",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-17.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "18",
+      "status": "active",
+      "dayTypes": [
+        "robocze",
+        "sobota",
+        "niedziela"
+      ],
+      "file": "linia-18.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "19",
+      "status": "active",
+      "dayTypes": [
+        "robocze",
+        "sobota",
+        "niedziela"
+      ],
+      "file": "linia-19.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "20",
+      "status": "suspended",
+      "dayTypes": [],
+      "file": "linia-20.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z",
+      "note": "Linia zawieszona - brak rozkładu na stronie gminy."
+    },
+    {
+      "line": "21",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-21.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "22",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-22.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "23",
+      "status": "suspended",
+      "dayTypes": [],
+      "file": "linia-23.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z",
+      "note": "Linia zawieszona - brak rozkładu na stronie gminy."
+    },
+    {
+      "line": "24",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-24.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "25",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-25.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    },
+    {
+      "line": "26",
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
+      "file": "linia-26.json",
+      "lastScrapedAt": "2026-08-04T20:51:16Z"
+    }
+  ]
+}

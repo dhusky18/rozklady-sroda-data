@@ -1,0 +1,248 @@
+{
+  "line": "25",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-25/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2025-09-01",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2025/08/25.09.01-Dni-robocze-linia-nr-25.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 25 w dni robocze obowiązujący od 1 września 2025 do 31 sierpnia 2026 roku [*.pdf, 110 KB]",
+      "directions": [
+        {
+          "name": "Dworzec PKS → Łękno",
+          "origin": "Dworzec PKS",
+          "destination": "Łękno",
+          "courses": [
+            "1"
+          ],
+          "stops": [
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "06:35"
+              ]
+            },
+            {
+              "name": "Paderewskiego/Pływalnia",
+              "times": [
+                "06:36"
+              ]
+            },
+            {
+              "name": "Kórnicka/Solaris",
+              "times": [
+                "06:37"
+              ]
+            },
+            {
+              "name": "Żabikowo/DK11",
+              "times": [
+                "06:40"
+              ]
+            },
+            {
+              "name": "Koszuty/Lorenka",
+              "times": [
+                "06:42"
+              ]
+            },
+            {
+              "name": "Słupia Wielka/Sklep",
+              "times": [
+                "06:45"
+              ]
+            },
+            {
+              "name": "Annopole/Gzub",
+              "times": [
+                "06:47"
+              ]
+            },
+            {
+              "name": "Jaszkowo",
+              "times": [
+                "06:50"
+              ]
+            },
+            {
+              "name": "Śnieciska",
+              "times": [
+                "06:53"
+              ]
+            },
+            {
+              "name": "Śnieciska II",
+              "times": [
+                "06:54"
+              ]
+            },
+            {
+              "name": "Dobroczyn",
+              "times": [
+                "06:56"
+              ]
+            },
+            {
+              "name": "Polwica",
+              "times": [
+                "06:57"
+              ]
+            },
+            {
+              "name": "Polwica I",
+              "times": [
+                "06:58"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "07:00"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "07:02"
+              ]
+            },
+            {
+              "name": "Łękno",
+              "times": [
+                "07:03"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Łękno → Kórnicka/Szkoła",
+          "origin": "Łękno",
+          "destination": "Kórnicka/Szkoła",
+          "courses": [
+            "1"
+          ],
+          "stops": [
+            {
+              "name": "Łękno",
+              "times": [
+                "07:05"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "07:07"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Kościół",
+              "times": [
+                "07:09"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "07:12"
+              ]
+            },
+            {
+              "name": "Luboniec/skrzyżowanie",
+              "times": [
+                "07:14"
+              ]
+            },
+            {
+              "name": "Brzostek",
+              "times": [
+                "07:17"
+              ]
+            },
+            {
+              "name": "Wyszakowskie Huby",
+              "times": [
+                "07:19"
+              ]
+            },
+            {
+              "name": "Wyszakowo",
+              "times": [
+                "07:21"
+              ]
+            },
+            {
+              "name": "Mądre",
+              "times": [
+                "07:24"
+              ]
+            },
+            {
+              "name": "Pigłowice",
+              "times": [
+                "07:28"
+              ]
+            },
+            {
+              "name": "Pigłowice – skrzyżowanie",
+              "times": [
+                "07:30"
+              ]
+            },
+            {
+              "name": "Chwałkowo/DW432",
+              "times": [
+                "07:32"
+              ]
+            },
+            {
+              "name": "Pętkowo/DW432",
+              "times": [
+                "07:34"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Działki",
+              "times": [
+                "07:39"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Biedronka",
+              "times": [
+                "07:40"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "07:41"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "07:43"
+              ]
+            },
+            {
+              "name": "Paderewskiego/Pływalnia",
+              "times": [
+                "07:44"
+              ]
+            },
+            {
+              "name": "Kórnicka/Szkoła",
+              "times": [
+                "07:46"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

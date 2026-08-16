@@ -1,0 +1,313 @@
+{
+  "line": "26",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-26/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2025-09-01",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2025/08/25.09.01-Dni-robocze-linia-nr-26.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 26 w dni robocze obowiązujący od 1 września 2025 do 31 sierpnia 2026 roku [*.pdf, 123 KB]",
+      "directions": [
+        {
+          "name": "Kórnicka/Szkoła → Łękno",
+          "origin": "Kórnicka/Szkoła",
+          "destination": "Łękno",
+          "courses": [
+            "1",
+            "2"
+          ],
+          "stops": [
+            {
+              "name": "Kórnicka/Szkoła",
+              "times": [
+                null,
+                "15:27"
+              ]
+            },
+            {
+              "name": "Paderewskiego/Jackowskiego",
+              "times": [
+                null,
+                "15:29"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "06:25",
+                "15:30"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "06:27",
+                "15:32"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Almarco",
+              "times": [
+                "06:28",
+                "15:33"
+              ]
+            },
+            {
+              "name": "Kijewo/DW432",
+              "times": [
+                "06:32",
+                "15:37"
+              ]
+            },
+            {
+              "name": "Pętkowo/DW432",
+              "times": [
+                "06:34",
+                "15:39"
+              ]
+            },
+            {
+              "name": "Chwałkowo/DW432",
+              "times": [
+                "06:36",
+                "15:41"
+              ]
+            },
+            {
+              "name": "Pigłowice – skrzyżowanie",
+              "times": [
+                "06:38",
+                "15:43"
+              ]
+            },
+            {
+              "name": "Śnieciska – skrzyżowanie",
+              "times": [
+                "06:40",
+                "15:45"
+              ]
+            },
+            {
+              "name": "Luboniec – skrzyżowanie",
+              "times": [
+                "06:42",
+                "15:47"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "06:44",
+                "15:49"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "06:46",
+                "15:51"
+              ]
+            },
+            {
+              "name": "Łękno",
+              "times": [
+                "06:47",
+                "15:52"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Łękno → Kórnicka/Szkoła",
+          "origin": "Łękno",
+          "destination": "Kórnicka/Szkoła",
+          "courses": [
+            "1",
+            "2"
+          ],
+          "stops": [
+            {
+              "name": "Łękno",
+              "times": [
+                "06:50",
+                "15:53"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "06:52",
+                "15:55"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Kościół",
+              "times": [
+                "06:54",
+                "15:57"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Topolowa",
+              "times": [
+                "06:55",
+                "15:58"
+              ]
+            },
+            {
+              "name": "Lubonieczek/Miodowa",
+              "times": [
+                "06:57",
+                "16:00"
+              ]
+            },
+            {
+              "name": "Lubonieczek/Jaśminowa",
+              "times": [
+                "06:59",
+                "16:02"
+              ]
+            },
+            {
+              "name": "Lubonieczek/Bluszczowa",
+              "times": [
+                "07:00",
+                "16:03"
+              ]
+            },
+            {
+              "name": "Czarnotki/Pętla",
+              "times": [
+                "07:02",
+                "16:05"
+              ]
+            },
+            {
+              "name": "Młodzikówko",
+              "times": [
+                "07:08",
+                "16:11"
+              ]
+            },
+            {
+              "name": "Młodzikowo",
+              "times": [
+                "07:11",
+                "16:14"
+              ]
+            },
+            {
+              "name": "Sulęcin I",
+              "times": [
+                "07:14",
+                "16:17"
+              ]
+            },
+            {
+              "name": "Sulęcin",
+              "times": [
+                "07:16",
+                "16:19"
+              ]
+            },
+            {
+              "name": "Sulęcinek II",
+              "times": [
+                "07:19",
+                "16:22"
+              ]
+            },
+            {
+              "name": "Borowo",
+              "times": [
+                "07:21",
+                "16:24"
+              ]
+            },
+            {
+              "name": "Garby",
+              "times": [
+                "07:24",
+                "16:27"
+              ]
+            },
+            {
+              "name": "Nadziejewo",
+              "times": [
+                "07:28",
+                "16:31"
+              ]
+            },
+            {
+              "name": "Chwałkowo/Czartki",
+              "times": [
+                "07:30",
+                "16:33"
+              ]
+            },
+            {
+              "name": "Kijewo",
+              "times": [
+                "07:33",
+                "16:36"
+              ]
+            },
+            {
+              "name": "Kijewo/Hortex",
+              "times": [
+                "07:34",
+                "16:37"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Działki",
+              "times": [
+                "07:38",
+                "16:41"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Biedronka",
+              "times": [
+                "07:39",
+                "16:42"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "07:40",
+                "16:43"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "07:42",
+                "16:45"
+              ]
+            },
+            {
+              "name": "Hallera/Biedronka",
+              "times": [
+                "07:43",
+                null
+              ]
+            },
+            {
+              "name": "Kórnicka/Szkoła",
+              "times": [
+                "07:45",
+                null
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

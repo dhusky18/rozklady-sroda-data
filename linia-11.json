@@ -1,0 +1,322 @@
+{
+  "line": "11",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-11/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-06-29",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-11.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 11 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 152 KB]",
+      "directions": [
+        {
+          "name": "Inwalidów Wojennych → Zdziechowice → Inwalidów Wojennych",
+          "origin": "Inwalidów Wojennych",
+          "destination": "Inwalidów Wojennych",
+          "courses": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "stops": [
+            {
+              "name": "Inwalidów Wojennych",
+              "times": [
+                "05:12",
+                "06:20",
+                "10:35",
+                "14:50",
+                "17:10"
+              ]
+            },
+            {
+              "name": "Wałowa/Kupiec Średzki",
+              "times": [
+                "05:14",
+                "06:22",
+                "10:37",
+                "14:52",
+                "17:12"
+              ]
+            },
+            {
+              "name": "Jażdżewskiego/Węzeł",
+              "times": [
+                "05:16",
+                "06:24",
+                "10:39",
+                "14:54",
+                "17:14"
+              ]
+            },
+            {
+              "name": "Strzelecka",
+              "times": [
+                "05:17",
+                "06:25",
+                "10:40",
+                "14:55",
+                "17:15"
+              ]
+            },
+            {
+              "name": "Strzelecka/LOK",
+              "times": [
+                "05:18",
+                "06:26",
+                "10:41",
+                "14:56",
+                "17:16"
+              ]
+            },
+            {
+              "name": "Zielniki/Osiedle",
+              "times": [
+                "05:20",
+                "06:28",
+                "10:43",
+                "14:58",
+                "17:18"
+              ]
+            },
+            {
+              "name": "Zielniki",
+              "times": [
+                "05:21",
+                "06:29",
+                "10:44",
+                "14:59",
+                "17:19"
+              ]
+            },
+            {
+              "name": "Zielniczki",
+              "times": [
+                null,
+                null,
+                null,
+                "15:02",
+                null
+              ]
+            },
+            {
+              "name": "Romanowo",
+              "times": [
+                "05:23",
+                "06:31",
+                "10:46",
+                "15:06",
+                "17:21"
+              ]
+            },
+            {
+              "name": "Podgaj",
+              "times": [
+                "05:24",
+                "06:32",
+                "10:47",
+                "15:07",
+                "17:22"
+              ]
+            },
+            {
+              "name": "Babin",
+              "times": [
+                "05:26",
+                "06:34",
+                "10:49",
+                "15:09",
+                "17:24"
+              ]
+            },
+            {
+              "name": "Pławce",
+              "times": [
+                "05:30",
+                "06:38",
+                "10:53",
+                "15:13",
+                "17:28"
+              ]
+            },
+            {
+              "name": "Węgierskie",
+              "times": [
+                null,
+                "06:41",
+                "10:56",
+                "15:16",
+                null
+              ]
+            },
+            {
+              "name": "Pławce/Szkoła",
+              "times": [
+                "05:31",
+                "06:45",
+                "11:00",
+                "15:20",
+                "17:29"
+              ]
+            },
+            {
+              "name": "Zdziechowice",
+              "times": [
+                "05:33",
+                "06:47",
+                "11:02",
+                "15:22",
+                "17:31"
+              ]
+            },
+            {
+              "name": "Borzejewo",
+              "times": [
+                null,
+                null,
+                null,
+                "15:27",
+                null
+              ]
+            },
+            {
+              "name": "Pławce/Szkoła",
+              "times": [
+                "05:35",
+                "06:49",
+                "11:04",
+                "15:32",
+                "17:33"
+              ]
+            },
+            {
+              "name": "Węgierskie",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "17:37"
+              ]
+            },
+            {
+              "name": "Pławce",
+              "times": [
+                "05:36",
+                "06:50",
+                "11:05",
+                "15:33",
+                "17:41"
+              ]
+            },
+            {
+              "name": "Babin",
+              "times": [
+                null,
+                "06:54",
+                null,
+                "15:37",
+                null
+              ]
+            },
+            {
+              "name": "Podgaj",
+              "times": [
+                "05:39",
+                "06:56",
+                "11:08",
+                "15:39",
+                "17:44"
+              ]
+            },
+            {
+              "name": "Romanowo",
+              "times": [
+                "05:40",
+                "06:57",
+                "11:09",
+                "15:40",
+                "17:45"
+              ]
+            },
+            {
+              "name": "Zielniczki",
+              "times": [
+                null,
+                "07:00",
+                null,
+                "15:43",
+                null
+              ]
+            },
+            {
+              "name": "Zielniki",
+              "times": [
+                "05:42",
+                "07:03",
+                "11:11",
+                "15:46",
+                "17:47"
+              ]
+            },
+            {
+              "name": "Zielniki/Osiedle",
+              "times": [
+                "05:43",
+                "07:04",
+                "11:12",
+                "15:47",
+                "17:48"
+              ]
+            },
+            {
+              "name": "Strzelecka/LOK",
+              "times": [
+                "05:45",
+                "07:06",
+                "11:14",
+                "15:49",
+                "17:50"
+              ]
+            },
+            {
+              "name": "Jażdżewskiego/Węzeł",
+              "times": [
+                "05:47",
+                "07:08",
+                "11:16",
+                "15:51",
+                "17:52"
+              ]
+            },
+            {
+              "name": "Limanowskiego/Biblioteka",
+              "times": [
+                "05:49",
+                "07:10",
+                "11:18",
+                "15:53",
+                "17:54"
+              ]
+            },
+            {
+              "name": "Inwalidów Wojennych",
+              "times": [
+                "05:51",
+                "07:12",
+                "11:20",
+                "15:55",
+                "17:56"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

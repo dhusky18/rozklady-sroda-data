@@ -1,0 +1,214 @@
+{
+  "line": "13",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-13/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-06-29",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-13.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 13 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 132 KB]",
+      "directions": [
+        {
+          "name": "Inwalidów Wojennych → Dębiczek/skrzyżowanie → Inwalidów Wojennych",
+          "origin": "Inwalidów Wojennych",
+          "destination": "Inwalidów Wojennych",
+          "courses": [
+            "1",
+            "2",
+            "3"
+          ],
+          "stops": [
+            {
+              "name": "Inwalidów Wojennych",
+              "times": [
+                "06:10",
+                "10:50",
+                "15:45"
+              ]
+            },
+            {
+              "name": "Wałowa/Kupiec Średzki",
+              "times": [
+                "06:12",
+                "10:52",
+                "15:47"
+              ]
+            },
+            {
+              "name": "Daszyńskiego/Park",
+              "times": [
+                "06:13",
+                "10:53",
+                "15:48"
+              ]
+            },
+            {
+              "name": "Nekielska/Cmentarz",
+              "times": [
+                "06:14",
+                "10:54",
+                "15:49"
+              ]
+            },
+            {
+              "name": "Nekielska",
+              "times": [
+                "06:16",
+                "10:56",
+                "15:51"
+              ]
+            },
+            {
+              "name": "Janowo",
+              "times": [
+                "06:17",
+                "10:57",
+                "15:52"
+              ]
+            },
+            {
+              "name": "Janowo I",
+              "times": [
+                "06:18",
+                "10:58",
+                "15:53"
+              ]
+            },
+            {
+              "name": "Dębicz/Pałac",
+              "times": [
+                "06:20",
+                "11:00",
+                "15:55"
+              ]
+            },
+            {
+              "name": "Dębicz",
+              "times": [
+                "06:22",
+                "11:02",
+                "15:57"
+              ]
+            },
+            {
+              "name": "Dębicz/Osiedle",
+              "times": [
+                "06:24",
+                "11:04",
+                "15:59"
+              ]
+            },
+            {
+              "name": "Dębicz/Stara Szkoła",
+              "times": [
+                "06:25",
+                "11:05",
+                "16:00"
+              ]
+            },
+            {
+              "name": "Dębiczek/skrzyżowanie",
+              "times": [
+                "06:26",
+                "11:06",
+                "16:01"
+              ]
+            },
+            {
+              "name": "Dębiczek",
+              "times": [
+                "06:27",
+                "11:07",
+                "16:02"
+              ]
+            },
+            {
+              "name": "Dębiczek I",
+              "times": [
+                "06:28",
+                "11:08",
+                "16:03"
+              ]
+            },
+            {
+              "name": "Mączniki/Osiedle",
+              "times": [
+                "06:32",
+                "11:12",
+                "16:07"
+              ]
+            },
+            {
+              "name": "Mączniki",
+              "times": [
+                "06:34",
+                "11:14",
+                "16:09"
+              ]
+            },
+            {
+              "name": "Mączniki/Kościół",
+              "times": [
+                "06:35",
+                "11:15",
+                "16:10"
+              ]
+            },
+            {
+              "name": "Janowo/Plażowa",
+              "times": [
+                "06:37",
+                "11:17",
+                "16:12"
+              ]
+            },
+            {
+              "name": "Plażowa",
+              "times": [
+                "06:38",
+                "11:18",
+                "16:13"
+              ]
+            },
+            {
+              "name": "Nekielska/Cmentarz",
+              "times": [
+                "06:41",
+                "11:21",
+                "16:16"
+              ]
+            },
+            {
+              "name": "Jażdżewskiego/Węzeł",
+              "times": [
+                "06:43",
+                "11:23",
+                "16:18"
+              ]
+            },
+            {
+              "name": "Limanowskiego/Biblioteka",
+              "times": [
+                "06:45",
+                "11:25",
+                "16:20"
+              ]
+            },
+            {
+              "name": "Inwalidów Wojennych",
+              "times": [
+                "06:47",
+                "11:27",
+                "16:22"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

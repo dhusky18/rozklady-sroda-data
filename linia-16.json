@@ -1,0 +1,412 @@
+{
+  "line": "16",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-16/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-06-29",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-16.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 16 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 168 KB]",
+      "directions": [
+        {
+          "name": "Dąbrowskiego/Szkoła → Lipowa/Szkoła",
+          "origin": "Dąbrowskiego/Szkoła",
+          "destination": "Lipowa/Szkoła",
+          "courses": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5"
+          ],
+          "stops": [
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "05:30",
+                "06:27",
+                "11:10",
+                "15:40",
+                "17:16"
+              ]
+            },
+            {
+              "name": "Brodowska/Wieża Ciśnień",
+              "times": [
+                "05:31",
+                "06:28",
+                "11:11",
+                "15:41",
+                "17:17"
+              ]
+            },
+            {
+              "name": "27 Grudnia",
+              "times": [
+                "05:32",
+                "06:29",
+                "11:12",
+                "15:42",
+                "17:18"
+              ]
+            },
+            {
+              "name": "Harcerska/Przedszkole",
+              "times": [
+                "05:33",
+                "06:30",
+                "11:13",
+                "15:43",
+                "17:19"
+              ]
+            },
+            {
+              "name": "Harcerska",
+              "times": [
+                "05:34",
+                "06:31",
+                "11:14",
+                "15:44",
+                "17:20"
+              ]
+            },
+            {
+              "name": "Olszewo",
+              "times": [
+                "05:37",
+                "06:34",
+                "11:17",
+                "15:47",
+                "17:23"
+              ]
+            },
+            {
+              "name": "Pierzchno/skrzyżowanie",
+              "times": [
+                "05:39",
+                "06:36",
+                "11:19",
+                "15:49",
+                "17:25"
+              ]
+            },
+            {
+              "name": "Szlachcin",
+              "times": [
+                "05:42",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin/Sklep",
+              "times": [
+                "05:43",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pierzchno",
+              "times": [
+                null,
+                "06:37",
+                "11:20",
+                "15:50",
+                "17:26"
+              ]
+            },
+            {
+              "name": "Pierzchnica",
+              "times": [
+                null,
+                "06:38",
+                "11:21",
+                "15:51",
+                "17:27"
+              ]
+            },
+            {
+              "name": "Szlachcin Huby",
+              "times": [
+                null,
+                "06:40",
+                "11:23",
+                "15:53",
+                "17:29"
+              ]
+            },
+            {
+              "name": "Szlachcin Huby I",
+              "times": [
+                null,
+                "06:41",
+                "11:24",
+                "15:54",
+                "17:30"
+              ]
+            },
+            {
+              "name": "Starkówiec Piątkowski",
+              "times": [
+                null,
+                "06:42",
+                "11:25",
+                "15:55",
+                "17:31"
+              ]
+            },
+            {
+              "name": "Starkówiec Piątkowski I",
+              "times": [
+                null,
+                "06:45",
+                "11:28",
+                "15:58",
+                "17:34"
+              ]
+            },
+            {
+              "name": "Starkówiec Piątkowski II",
+              "times": [
+                null,
+                "06:47",
+                "11:30",
+                "16:00",
+                "17:36"
+              ]
+            },
+            {
+              "name": "Czarne Piątkowo/DK15",
+              "times": [
+                null,
+                "06:49",
+                "11:32",
+                "16:02",
+                "17:38"
+              ]
+            },
+            {
+              "name": "Grójec/Żwirownia",
+              "times": [
+                null,
+                "06:52",
+                "11:35",
+                "16:05",
+                "17:41"
+              ]
+            },
+            {
+              "name": "Grójec",
+              "times": [
+                null,
+                "06:53",
+                "11:36",
+                "16:06",
+                "17:42"
+              ]
+            },
+            {
+              "name": "Czarne Piątkowo",
+              "times": [
+                null,
+                "06:55",
+                "11:38",
+                "16:08",
+                "17:44"
+              ]
+            },
+            {
+              "name": "Starkówiec/Szkoła",
+              "times": [
+                null,
+                "06:58",
+                "11:41",
+                "16:11",
+                "17:47"
+              ]
+            },
+            {
+              "name": "Winna Góra",
+              "times": [
+                "05:50",
+                null,
+                null,
+                null,
+                "17:51"
+              ]
+            },
+            {
+              "name": "Miłosław/przejazd kolejowy",
+              "times": [
+                "05:53",
+                null,
+                null,
+                null,
+                "17:54"
+              ]
+            },
+            {
+              "name": "Miłosław",
+              "times": [
+                "05:56",
+                null,
+                null,
+                null,
+                "17:57"
+              ]
+            },
+            {
+              "name": "Miłosław/przejazd kolejowy",
+              "times": [
+                "05:59",
+                null,
+                null,
+                null,
+                "18:00"
+              ]
+            },
+            {
+              "name": "Winna Góra/Kościół",
+              "times": [
+                "06:02",
+                "07:02",
+                "11:45",
+                "16:15",
+                "18:03"
+              ]
+            },
+            {
+              "name": "Winna Góra/Sklep",
+              "times": [
+                "06:03",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Chocicza",
+              "times": [
+                null,
+                "07:07",
+                "11:50",
+                "16:20",
+                "18:08"
+              ]
+            },
+            {
+              "name": "Brzezie",
+              "times": [
+                null,
+                "07:09",
+                "11:52",
+                "16:22",
+                "18:10"
+              ]
+            },
+            {
+              "name": "Brzezie/Starkówiec",
+              "times": [
+                "06:06",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin/Sklep",
+              "times": [
+                "06:09",
+                "07:12",
+                "11:55",
+                "16:25",
+                "18:13"
+              ]
+            },
+            {
+              "name": "Szlachcin",
+              "times": [
+                "06:10",
+                "07:13",
+                "11:56",
+                "16:26",
+                "18:14"
+              ]
+            },
+            {
+              "name": "Pierzchno/skrzyżowanie",
+              "times": [
+                "06:13",
+                "07:16",
+                "11:59",
+                "16:29",
+                "18:17"
+              ]
+            },
+            {
+              "name": "Olszewo",
+              "times": [
+                "06:15",
+                "07:18",
+                "12:01",
+                "16:31",
+                "18:19"
+              ]
+            },
+            {
+              "name": "Harcerska/Źrenica",
+              "times": [
+                "06:17",
+                "07:20",
+                "12:03",
+                "16:33",
+                "18:21"
+              ]
+            },
+            {
+              "name": "27 Grudnia",
+              "times": [
+                "06:20",
+                "07:23",
+                "12:06",
+                "16:36",
+                "18:24"
+              ]
+            },
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "06:22",
+                "07:25",
+                "12:08",
+                "16:38",
+                "18:26"
+              ]
+            },
+            {
+              "name": "Lipowa/Szkoła",
+              "times": [
+                null,
+                "07:27",
+                null,
+                null,
+                null
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

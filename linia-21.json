@@ -1,0 +1,1170 @@
+{
+  "line": "21",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-21/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2025-09-01",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2025/08/25.09.01-Dni-robocze-linia-nr-21.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 21 w dni robocze obowiązujący od 1 września 2025 do 31 sierpnia 2026 roku [*.pdf, 273 KB]",
+      "directions": [
+        {
+          "name": "Kórnicka/Solaris → Kórnicka/Szkoła",
+          "origin": "Kórnicka/Solaris",
+          "destination": "Kórnicka/Szkoła",
+          "courses": [
+            "1",
+            "1",
+            "1",
+            "2",
+            "2",
+            "3",
+            "3",
+            "4",
+            "4"
+          ],
+          "stops": [
+            {
+              "name": "Kórnicka/Solaris",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "14:27",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Kórnicka/Szkoła",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "14:28",
+                null,
+                "15:25",
+                null
+              ]
+            },
+            {
+              "name": "Paderewskiego/Jackowskiego",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:27",
+                null
+              ]
+            },
+            {
+              "name": "Hallera/Biedronka",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:28",
+                null
+              ]
+            },
+            {
+              "name": "Kilińskiego/Orlen",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "14:29",
+                null,
+                "15:29",
+                null
+              ]
+            },
+            {
+              "name": "Kilińskiego/Pomnik",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "14:30",
+                null,
+                "15:30",
+                null
+              ]
+            },
+            {
+              "name": "Limanowskiego/Biblioteka",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "14:32",
+                null,
+                "15:32",
+                null
+              ]
+            },
+            {
+              "name": "Inwalidów Wojennych",
+              "times": [
+                "06:03",
+                null,
+                null,
+                "11:04",
+                null,
+                "14:34",
+                null,
+                "15:34",
+                null
+              ]
+            },
+            {
+              "name": "Brodowska/Wieża ciśnień",
+              "times": [
+                "06:05",
+                null,
+                null,
+                "11:06",
+                null,
+                "14:36",
+                null,
+                "15:36",
+                null
+              ]
+            },
+            {
+              "name": "Brodowska/Rodak",
+              "times": [
+                "06:07",
+                null,
+                null,
+                "11:08",
+                null,
+                "14:38",
+                null,
+                "15:38",
+                null
+              ]
+            },
+            {
+              "name": "Włostowo",
+              "times": [
+                "06:10",
+                null,
+                null,
+                "11:11",
+                null,
+                "14:41",
+                null,
+                "15:41",
+                null
+              ]
+            },
+            {
+              "name": "Brodowo/DK11",
+              "times": [
+                "06:12",
+                null,
+                null,
+                "11:13",
+                null,
+                "14:43",
+                null,
+                "15:43",
+                null
+              ]
+            },
+            {
+              "name": "Brodowo/Słoneczna",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:44",
+                null
+              ]
+            },
+            {
+              "name": "Marianowo Brodowskie",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:46",
+                null
+              ]
+            },
+            {
+              "name": "Marianowo Brodowskie/DK11",
+              "times": [
+                "06:14",
+                null,
+                null,
+                "11:15",
+                null,
+                "14:45",
+                null,
+                "15:48",
+                null
+              ]
+            },
+            {
+              "name": "Miąskowo",
+              "times": [
+                "06:16",
+                null,
+                null,
+                "11:17",
+                null,
+                "14:47",
+                null,
+                "15:50",
+                null
+              ]
+            },
+            {
+              "name": "Murzynówko I",
+              "times": [
+                null,
+                null,
+                null,
+                "11:20",
+                null,
+                "14:50",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Miąskowo I",
+              "times": [
+                null,
+                null,
+                null,
+                "11:21",
+                null,
+                "14:51",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Murzynowo Leśne I",
+              "times": [
+                null,
+                null,
+                null,
+                "11:22",
+                null,
+                "14:52",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Murzynowo Leśne",
+              "times": [
+                null,
+                null,
+                null,
+                "11:24",
+                null,
+                "14:54",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Sulęcinek",
+              "times": [
+                null,
+                null,
+                null,
+                "11:28",
+                null,
+                "14:58",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Sulęcinek I",
+              "times": [
+                null,
+                null,
+                null,
+                "11:30",
+                null,
+                "15:00",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Sulęcinek II",
+              "times": [
+                null,
+                null,
+                null,
+                "11:32",
+                null,
+                "15:02",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Sulęcin",
+              "times": [
+                null,
+                null,
+                null,
+                "11:35",
+                null,
+                "15:05",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Solec",
+              "times": [
+                null,
+                null,
+                null,
+                "11:38",
+                null,
+                "15:08",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Krzykosy Osiedle",
+              "times": [
+                null,
+                null,
+                null,
+                "11:42",
+                null,
+                "15:12",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Krzykosy",
+              "times": [
+                null,
+                null,
+                null,
+                "11:43",
+                null,
+                "15:13",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Murzynówko",
+              "times": [
+                "06:18",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:52",
+                null
+              ]
+            },
+            {
+              "name": "Bronisław",
+              "times": [
+                "06:21",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:55",
+                null
+              ]
+            },
+            {
+              "name": "Krzykosy II",
+              "times": [
+                "06:23",
+                null,
+                null,
+                "11:45",
+                null,
+                "15:15",
+                null,
+                "15:57",
+                null
+              ]
+            },
+            {
+              "name": "Lubrze",
+              "times": [
+                "06:25",
+                null,
+                null,
+                "11:47",
+                null,
+                "15:17",
+                null,
+                "15:59",
+                null
+              ]
+            },
+            {
+              "name": "Nowe Miasto",
+              "times": [
+                "06:29",
+                "06:30",
+                null,
+                "11:51",
+                null,
+                "15:21",
+                "15:25",
+                "16:03",
+                "16:05"
+              ]
+            },
+            {
+              "name": "Klęka",
+              "times": [
+                null,
+                "06:34",
+                null,
+                "11:55",
+                null,
+                null,
+                null,
+                null,
+                "16:09"
+              ]
+            },
+            {
+              "name": "Aleksandrów",
+              "times": [
+                null,
+                "06:37",
+                null,
+                "11:58",
+                null,
+                null,
+                null,
+                null,
+                "16:12"
+              ]
+            },
+            {
+              "name": "Szypłów",
+              "times": [
+                null,
+                "06:42",
+                null,
+                "12:03",
+                null,
+                null,
+                null,
+                null,
+                "16:17"
+              ]
+            },
+            {
+              "name": "Chwalęcin",
+              "times": [
+                null,
+                "06:45",
+                null,
+                "12:06",
+                null,
+                null,
+                null,
+                null,
+                "16:20"
+              ]
+            },
+            {
+              "name": "Kolniczki",
+              "times": [
+                null,
+                "06:48",
+                null,
+                "12:09",
+                null,
+                null,
+                null,
+                null,
+                "16:23"
+              ]
+            },
+            {
+              "name": "Boguszyn – Kolnicka",
+              "times": [
+                null,
+                "06:50",
+                null,
+                "12:11",
+                null,
+                null,
+                null,
+                null,
+                "16:25"
+              ]
+            },
+            {
+              "name": "Boguszyn",
+              "times": [
+                null,
+                "06:53",
+                null,
+                "12:14",
+                null,
+                null,
+                null,
+                null,
+                "16:28"
+              ]
+            },
+            {
+              "name": "Chocicza",
+              "times": [
+                null,
+                "06:56",
+                null,
+                "12:17",
+                null,
+                null,
+                null,
+                null,
+                "16:31"
+              ]
+            },
+            {
+              "name": "Chocicza I",
+              "times": [
+                null,
+                "06:58",
+                null,
+                "12:19",
+                null,
+                null,
+                null,
+                null,
+                "16:33"
+              ]
+            },
+            {
+              "name": "Komorze",
+              "times": [
+                null,
+                "07:01",
+                null,
+                "12:22",
+                null,
+                null,
+                null,
+                null,
+                "16:36"
+              ]
+            },
+            {
+              "name": "Klęka",
+              "times": [
+                null,
+                "07:05",
+                null,
+                "12:26",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Nowe Miasto",
+              "times": [
+                null,
+                "07:10",
+                "07:11",
+                "12:31",
+                "12:32",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Lubrze",
+              "times": [
+                null,
+                null,
+                "07:15",
+                null,
+                "12:36",
+                null,
+                "15:29",
+                null,
+                "16:42"
+              ]
+            },
+            {
+              "name": "Krzykosy II",
+              "times": [
+                null,
+                null,
+                "07:18",
+                null,
+                null,
+                null,
+                null,
+                null,
+                "16:45"
+              ]
+            },
+            {
+              "name": "Bronisław",
+              "times": [
+                null,
+                null,
+                "07:20",
+                null,
+                null,
+                null,
+                null,
+                null,
+                "16:47"
+              ]
+            },
+            {
+              "name": "Krzykosy I",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:39",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Witowo",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:42",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Wiktorowo",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:43",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pięczkowo",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:45",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pięczkowo I",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:47",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Orzechowo",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:49",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pięczkowo I",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:52",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pięczkowo",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:54",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Wiktorowo",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:56",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Witowo",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "12:57",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Krzykosy I",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:00",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Krzykosy",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:03",
+                null,
+                "15:33",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Krzykosy Osiedle",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:04",
+                null,
+                "15:34",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Solec",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:08",
+                null,
+                "15:38",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Sulęcin",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:11",
+                null,
+                "15:41",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Sulęcinek II",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:14",
+                null,
+                "15:44",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Sulęcinek I",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:16",
+                null,
+                "15:46",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Sulęcinek",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:18",
+                null,
+                "15:48",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Murzynowo Leśne",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:22",
+                null,
+                "15:52",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Murzynowo Leśne I",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:24",
+                null,
+                "15:54",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Miąskowo I",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "13:25",
+                null,
+                "15:55",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Murzynówko",
+              "times": [
+                null,
+                null,
+                "07:23",
+                null,
+                "13:27",
+                null,
+                "15:57",
+                null,
+                "16:50"
+              ]
+            },
+            {
+              "name": "Miąskowo",
+              "times": [
+                null,
+                null,
+                "07:25",
+                null,
+                "13:29",
+                null,
+                "15:59",
+                null,
+                "16:52"
+              ]
+            },
+            {
+              "name": "Marianowo Brodowskie/DK11",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                "16:01",
+                null,
+                "16:54"
+              ]
+            },
+            {
+              "name": "Marianowo Brodowskie",
+              "times": [
+                null,
+                null,
+                "07:29",
+                null,
+                "13:33",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Brodowo/Słoneczna",
+              "times": [
+                null,
+                null,
+                "07:31",
+                null,
+                "13:35",
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Brodowo/DK11",
+              "times": [
+                null,
+                null,
+                "07:33",
+                null,
+                "13:37",
+                null,
+                "16:03",
+                null,
+                "16:56"
+              ]
+            },
+            {
+              "name": "Włostowo",
+              "times": [
+                null,
+                null,
+                "07:35",
+                null,
+                "13:39",
+                null,
+                "16:05",
+                null,
+                "16:58"
+              ]
+            },
+            {
+              "name": "Brodowska/Bricomarche",
+              "times": [
+                null,
+                null,
+                "07:38",
+                null,
+                "13:42",
+                null,
+                "16:08",
+                null,
+                "17:01"
+              ]
+            },
+            {
+              "name": "Brodowska/Wieża ciśnień",
+              "times": [
+                null,
+                null,
+                "07:40",
+                null,
+                "13:44",
+                null,
+                "16:10",
+                null,
+                "17:03"
+              ]
+            },
+            {
+              "name": "Inwalidów Wojennych",
+              "times": [
+                null,
+                null,
+                "07:42",
+                null,
+                "13:46",
+                null,
+                "16:12",
+                null,
+                "17:05"
+              ]
+            },
+            {
+              "name": "Wałowa/Kupiec Średzki",
+              "times": [
+                null,
+                null,
+                "07:44",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Kilińskiego/Orlen",
+              "times": [
+                null,
+                null,
+                "07:47",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Kórnicka/Szkoła",
+              "times": [
+                null,
+                null,
+                "07:48",
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

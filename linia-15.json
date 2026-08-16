@@ -1,0 +1,206 @@
+{
+  "line": "15",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-15/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-06-29",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-15.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 15 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 130 KB]",
+      "directions": [
+        {
+          "name": "Dąbrowskiego/Szkoła → Brodowo/Kwiatowa II → Dąbrowskiego/Szkoła",
+          "origin": "Dąbrowskiego/Szkoła",
+          "destination": "Dąbrowskiego/Szkoła",
+          "courses": [
+            "1",
+            "2",
+            "3"
+          ],
+          "stops": [
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "06:00",
+                "10:15",
+                "16:25"
+              ]
+            },
+            {
+              "name": "Brodowska/Rodak",
+              "times": [
+                "06:03",
+                "10:18",
+                "16:28"
+              ]
+            },
+            {
+              "name": "Włostowo",
+              "times": [
+                "06:06",
+                "10:21",
+                "16:31"
+              ]
+            },
+            {
+              "name": "Brodowo/DK11",
+              "times": [
+                "06:08",
+                "10:23",
+                "16:33"
+              ]
+            },
+            {
+              "name": "Brodowo/Słoneczna",
+              "times": [
+                "06:09",
+                "10:24",
+                "16:34"
+              ]
+            },
+            {
+              "name": "Marianowo Brodowskie",
+              "times": [
+                "06:11",
+                "10:26",
+                "16:36"
+              ]
+            },
+            {
+              "name": "Brodowo/Parkowa",
+              "times": [
+                "06:15",
+                "10:30",
+                "16:40"
+              ]
+            },
+            {
+              "name": "Nietrzanowo",
+              "times": [
+                "06:17",
+                "10:32",
+                "16:42"
+              ]
+            },
+            {
+              "name": "Brodowo/Parkowa",
+              "times": [
+                "06:19",
+                "10:34",
+                "16:44"
+              ]
+            },
+            {
+              "name": "Brodowo/DK11",
+              "times": [
+                "06:22",
+                "10:37",
+                "16:47"
+              ]
+            },
+            {
+              "name": "Brodowo/Kwiatowa I",
+              "times": [
+                "06:23",
+                "10:38",
+                "16:48"
+              ]
+            },
+            {
+              "name": "Brodowo/Kwiatowa II",
+              "times": [
+                "06:24",
+                "10:39",
+                "16:49"
+              ]
+            },
+            {
+              "name": "Chwałkowo/Przejazd kolejowy",
+              "times": [
+                "06:25",
+                "10:40",
+                "16:50"
+              ]
+            },
+            {
+              "name": "Nadziejewo",
+              "times": [
+                "06:28",
+                "10:43",
+                "16:53"
+              ]
+            },
+            {
+              "name": "Chwałkowo",
+              "times": [
+                "06:31",
+                "10:46",
+                "16:56"
+              ]
+            },
+            {
+              "name": "Chwałkowo/Wieś",
+              "times": [
+                "06:32",
+                "10:47",
+                "16:57"
+              ]
+            },
+            {
+              "name": "Strzeszki",
+              "times": [
+                "06:35",
+                "10:50",
+                "17:00"
+              ]
+            },
+            {
+              "name": "Pętkowo I",
+              "times": [
+                "06:36",
+                "10:51",
+                "17:01"
+              ]
+            },
+            {
+              "name": "Pętkowo II",
+              "times": [
+                "06:37",
+                "10:52",
+                "17:02"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Działki",
+              "times": [
+                "06:41",
+                "10:56",
+                "17:06"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Biedronka",
+              "times": [
+                "06:42",
+                "10:57",
+                "17:07"
+              ]
+            },
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "06:43",
+                "10:58",
+                "17:08"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

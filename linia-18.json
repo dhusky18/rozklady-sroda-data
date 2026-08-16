@@ -1,0 +1,785 @@
+{
+  "line": "18",
+  "status": "active",
+  "parserVersion": 2,
+  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-18/",
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-06-29",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-18.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 18 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 146 KB]",
+      "directions": [
+        {
+          "name": "Dworzec PKS → Łękno",
+          "origin": "Dworzec PKS",
+          "destination": "Łękno",
+          "courses": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "stops": [
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "05:35",
+                "09:55",
+                "11:30",
+                "18:30"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "05:37",
+                "09:57",
+                "11:32",
+                "18:32"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Almarco",
+              "times": [
+                "05:38",
+                "09:58",
+                "11:33",
+                "18:33"
+              ]
+            },
+            {
+              "name": "Kijewo/DW432",
+              "times": [
+                "05:42",
+                "10:02",
+                "11:37",
+                "18:37"
+              ]
+            },
+            {
+              "name": "Pętkowo/DW432",
+              "times": [
+                "05:44",
+                "10:04",
+                "11:39",
+                "18:39"
+              ]
+            },
+            {
+              "name": "Chwałkowo/DW432",
+              "times": [
+                "05:46",
+                "10:06",
+                "11:41",
+                "18:41"
+              ]
+            },
+            {
+              "name": "Pigłowice – skrzyżowanie",
+              "times": [
+                "05:48",
+                "10:08",
+                "11:43",
+                "18:43"
+              ]
+            },
+            {
+              "name": "Śnieciska – skrzyżowanie",
+              "times": [
+                "05:50",
+                "10:10",
+                "11:45",
+                "18:45"
+              ]
+            },
+            {
+              "name": "Luboniec – skrzyżowanie",
+              "times": [
+                "05:52",
+                "10:12",
+                "11:47",
+                "18:47"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "05:54",
+                "10:14",
+                "11:49",
+                "18:49"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Kościół",
+              "times": [
+                "05:57",
+                "10:17",
+                "11:52",
+                "18:52"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "05:58",
+                "10:18",
+                "11:53",
+                "18:53"
+              ]
+            },
+            {
+              "name": "Łękno",
+              "times": [
+                "05:59",
+                "10:19",
+                "11:54",
+                "18:54"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Łękno → Dworzec PKS",
+          "origin": "Łękno",
+          "destination": "Dworzec PKS",
+          "courses": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "stops": [
+            {
+              "name": "Łękno",
+              "times": [
+                "05:09",
+                "10:19",
+                "11:59",
+                "19:00"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "05:10",
+                "10:20",
+                "12:00",
+                "19:01"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Kościół",
+              "times": [
+                "05:11",
+                "10:21",
+                "12:01",
+                "19:02"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "05:14",
+                "10:24",
+                "12:04",
+                "19:05"
+              ]
+            },
+            {
+              "name": "Luboniec – skrzyżowanie",
+              "times": [
+                "05:16",
+                "10:26",
+                "12:06",
+                "19:07"
+              ]
+            },
+            {
+              "name": "Śnieciska – skrzyżowanie",
+              "times": [
+                "05:18",
+                "10:28",
+                "12:08",
+                "19:09"
+              ]
+            },
+            {
+              "name": "Pigłowice – skrzyżowanie",
+              "times": [
+                "05:20",
+                "10:30",
+                "12:10",
+                "19:11"
+              ]
+            },
+            {
+              "name": "Chwałkowo/DW432",
+              "times": [
+                "05:22",
+                "10:32",
+                "12:12",
+                "19:13"
+              ]
+            },
+            {
+              "name": "Pętkowo/DW432",
+              "times": [
+                "05:23",
+                "10:33",
+                "12:13",
+                "19:14"
+              ]
+            },
+            {
+              "name": "Kijewo/Hortex",
+              "times": [
+                "05:25",
+                "10:35",
+                "12:15",
+                "19:16"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Działki",
+              "times": [
+                "05:29",
+                "10:39",
+                "12:19",
+                "19:20"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Biedronka",
+              "times": [
+                "05:30",
+                "10:40",
+                "12:20",
+                "19:21"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "05:31",
+                "10:41",
+                "12:21",
+                "19:22"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "05:33",
+                "10:43",
+                "12:23",
+                "19:24"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayType": "sobota",
+      "validFrom": "2025-09-01",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2025/08/25.09.01-Soboty-linia-nr-18.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 18 w soboty obowiązujący od 1 września 2025 do 31 sierpnia 2026 roku [*.pdf, 97 KB]",
+      "directions": [
+        {
+          "name": "Dworzec PKS → Łękno",
+          "origin": "Dworzec PKS",
+          "destination": "Łękno",
+          "courses": [
+            "1",
+            "2",
+            "3"
+          ],
+          "stops": [
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "10:10",
+                "15:30",
+                "19:50"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "10:12",
+                "15:32",
+                "19:52"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Almarco",
+              "times": [
+                "10:13",
+                "15:33",
+                "19:53"
+              ]
+            },
+            {
+              "name": "Kijewo/DW432",
+              "times": [
+                "10:17",
+                "15:37",
+                "19:57"
+              ]
+            },
+            {
+              "name": "Pętkowo/DW432",
+              "times": [
+                "10:19",
+                "15:39",
+                "19:59"
+              ]
+            },
+            {
+              "name": "Chwałkowo/DW432",
+              "times": [
+                "10:21",
+                "15:41",
+                "20:01"
+              ]
+            },
+            {
+              "name": "Pigłowice – skrzyżowanie",
+              "times": [
+                "10:23",
+                "15:43",
+                "20:03"
+              ]
+            },
+            {
+              "name": "Śnieciska – skrzyżowanie",
+              "times": [
+                "10:25",
+                "15:45",
+                "20:05"
+              ]
+            },
+            {
+              "name": "Luboniec – skrzyżowanie",
+              "times": [
+                "10:27",
+                "15:47",
+                "20:07"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "10:29",
+                "15:49",
+                "20:09"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Kościół",
+              "times": [
+                "10:32",
+                "15:52",
+                "20:12"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "10:33",
+                "15:53",
+                "20:13"
+              ]
+            },
+            {
+              "name": "Łękno",
+              "times": [
+                "10:34",
+                "15:54",
+                "20:14"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Łękno → Dworzec PKS",
+          "origin": "Łękno",
+          "destination": "Dworzec PKS",
+          "courses": [
+            "1",
+            "2",
+            "3"
+          ],
+          "stops": [
+            {
+              "name": "Łękno",
+              "times": [
+                "10:35",
+                "15:58",
+                "20:14"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "10:36",
+                "15:59",
+                "20:15"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Kościół",
+              "times": [
+                "10:37",
+                "16:00",
+                "20:16"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "10:40",
+                "16:03",
+                "20:19"
+              ]
+            },
+            {
+              "name": "Luboniec – skrzyżowanie",
+              "times": [
+                "10:42",
+                "16:05",
+                "20:21"
+              ]
+            },
+            {
+              "name": "Śnieciska – skrzyżowanie",
+              "times": [
+                "10:44",
+                "16:07",
+                "20:23"
+              ]
+            },
+            {
+              "name": "Pigłowice – skrzyżowanie",
+              "times": [
+                "10:46",
+                "16:09",
+                "20:25"
+              ]
+            },
+            {
+              "name": "Chwałkowo/DW432",
+              "times": [
+                "10:48",
+                "16:11",
+                "20:27"
+              ]
+            },
+            {
+              "name": "Pętkowo/DW432",
+              "times": [
+                "10:49",
+                "16:12",
+                "20:28"
+              ]
+            },
+            {
+              "name": "Kijewo/Hortex",
+              "times": [
+                "10:51",
+                "16:14",
+                "20:30"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Działki",
+              "times": [
+                "10:55",
+                "16:18",
+                "20:34"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Biedronka",
+              "times": [
+                "10:56",
+                "16:19",
+                "20:35"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "10:57",
+                "16:20",
+                "20:36"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "10:59",
+                "16:22",
+                "20:38"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "dayType": "niedziela",
+      "validFrom": "2025-09-01",
+      "validTo": "2026-08-31",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2025/08/25.09.01-Niedziele-linia-nr-18.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 18 w niedziele i święta obowiązujący od 1 września 2025 do 31 sierpnia 2026 roku [*.pdf, 118 KB]",
+      "directions": [
+        {
+          "name": "Dworzec PKS → Łękno",
+          "origin": "Dworzec PKS",
+          "destination": "Łękno",
+          "courses": [
+            "1",
+            "2",
+            "3"
+          ],
+          "stops": [
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "10:05",
+                "15:35",
+                "20:10"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "10:07",
+                "15:37",
+                "20:12"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Almarco",
+              "times": [
+                "10:08",
+                "15:38",
+                "20:13"
+              ]
+            },
+            {
+              "name": "Kijewo/DW432",
+              "times": [
+                "10:12",
+                "15:42",
+                "20:17"
+              ]
+            },
+            {
+              "name": "Pętkowo/DW432",
+              "times": [
+                "10:14",
+                "15:44",
+                "20:19"
+              ]
+            },
+            {
+              "name": "Chwałkowo/DW432",
+              "times": [
+                "10:16",
+                "15:46",
+                "20:21"
+              ]
+            },
+            {
+              "name": "Pigłowice – skrzyżowanie",
+              "times": [
+                "10:18",
+                "15:48",
+                "20:23"
+              ]
+            },
+            {
+              "name": "Śnieciska – skrzyżowanie",
+              "times": [
+                "10:20",
+                "15:50",
+                "20:25"
+              ]
+            },
+            {
+              "name": "Luboniec – skrzyżowanie",
+              "times": [
+                "10:22",
+                "15:52",
+                "20:27"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "10:24",
+                "15:54",
+                "20:29"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Kościół",
+              "times": [
+                "10:27",
+                "15:57",
+                "20:32"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "10:28",
+                "15:58",
+                "20:33"
+              ]
+            },
+            {
+              "name": "Łękno",
+              "times": [
+                "10:29",
+                "15:59",
+                "20:34"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Łękno → Dworzec PKS",
+          "origin": "Łękno",
+          "destination": "Dworzec PKS",
+          "courses": [
+            "1",
+            "2",
+            "3"
+          ],
+          "stops": [
+            {
+              "name": "Łękno",
+              "times": [
+                "10:34",
+                "15:59",
+                "20:34"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Rynek",
+              "times": [
+                "10:35",
+                "16:00",
+                "20:35"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Kościół",
+              "times": [
+                "10:36",
+                "16:01",
+                "20:36"
+              ]
+            },
+            {
+              "name": "Zaniemyśl/Działki",
+              "times": [
+                "10:39",
+                "16:04",
+                "20:39"
+              ]
+            },
+            {
+              "name": "Luboniec – skrzyżowanie",
+              "times": [
+                "10:41",
+                "16:06",
+                "20:41"
+              ]
+            },
+            {
+              "name": "Śnieciska – skrzyżowanie",
+              "times": [
+                "10:43",
+                "16:08",
+                "20:43"
+              ]
+            },
+            {
+              "name": "Pigłowice – skrzyżowanie",
+              "times": [
+                "10:45",
+                "16:10",
+                "20:45"
+              ]
+            },
+            {
+              "name": "Chwałkowo/DW432",
+              "times": [
+                "10:47",
+                "16:12",
+                "20:47"
+              ]
+            },
+            {
+              "name": "Pętkowo/DW432",
+              "times": [
+                "10:48",
+                "16:13",
+                "20:48"
+              ]
+            },
+            {
+              "name": "Kijewo/Hortex",
+              "times": [
+                "10:50",
+                "16:15",
+                "20:50"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Działki",
+              "times": [
+                "10:54",
+                "16:19",
+                "20:54"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Biedronka",
+              "times": [
+                "10:55",
+                "16:20",
+                "20:55"
+              ]
+            },
+            {
+              "name": "20 Października",
+              "times": [
+                "10:56",
+                "16:21",
+                "20:56"
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "10:58",
+                "16:23",
+                "20:59"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
