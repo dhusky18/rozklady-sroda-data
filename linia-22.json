@@ -2,15 +2,15 @@
   "line": "22",
   "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-22/",
   "schedules": [
     {
       "dayType": "robocze",
-      "validFrom": "2025-09-01",
-      "validTo": "2026-08-31",
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2025/08/25.09.01-Dni-robocze-linia-nr-22.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 22 w dni robocze obowiązujący od 1 września 2025 do 31 sierpnia 2026 roku [*.pdf, 125 KB]",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-22.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 22 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 167 KB)",
       "directions": [
         {
           "name": "Kórnicka/Szkoła → Orzechowo → Kórnicka/Szkoła",
@@ -231,7 +231,7 @@
               ]
             },
             {
-              "name": "PięczWkowo I",
+              "name": "Pięczkowo I",
               "times": [
                 "06:46",
                 null,

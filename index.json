@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-04T20:51:16Z",
+  "lastUpdated": "2026-08-29T10:09:23Z",
   "source": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/",
   "lines": [
     {
@@ -9,7 +9,7 @@
         "robocze"
       ],
       "file": "linia-1.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "2",
@@ -18,7 +18,7 @@
         "robocze"
       ],
       "file": "linia-2.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "4",
@@ -27,7 +27,7 @@
         "robocze"
       ],
       "file": "linia-4.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "5",
@@ -36,7 +36,7 @@
         "robocze"
       ],
       "file": "linia-5.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "6",
@@ -45,7 +45,7 @@
         "robocze"
       ],
       "file": "linia-6.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "7",
@@ -54,7 +54,7 @@
         "robocze"
       ],
       "file": "linia-7.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "8",
@@ -63,15 +63,16 @@
         "robocze"
       ],
       "file": "linia-8.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "10",
-      "status": "suspended",
-      "dayTypes": [],
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
       "file": "linia-10.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z",
-      "note": "Linia zawieszona - brak rozkładu na stronie gminy."
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "11",
@@ -80,7 +81,7 @@
         "robocze"
       ],
       "file": "linia-11.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "12",
@@ -89,7 +90,7 @@
         "robocze"
       ],
       "file": "linia-12.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "13",
@@ -98,7 +99,7 @@
         "robocze"
       ],
       "file": "linia-13.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "14",
@@ -107,7 +108,7 @@
         "robocze"
       ],
       "file": "linia-14.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "15",
@@ -116,7 +117,7 @@
         "robocze"
       ],
       "file": "linia-15.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "16",
@@ -125,7 +126,7 @@
         "robocze"
       ],
       "file": "linia-16.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "17",
@@ -134,7 +135,7 @@
         "robocze"
       ],
       "file": "linia-17.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "18",
@@ -145,7 +146,7 @@
         "niedziela"
       ],
       "file": "linia-18.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "19",
@@ -156,15 +157,16 @@
         "niedziela"
       ],
       "file": "linia-19.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "20",
-      "status": "suspended",
-      "dayTypes": [],
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
       "file": "linia-20.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z",
-      "note": "Linia zawieszona - brak rozkładu na stronie gminy."
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "21",
@@ -173,7 +175,7 @@
         "robocze"
       ],
       "file": "linia-21.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "22",
@@ -182,15 +184,16 @@
         "robocze"
       ],
       "file": "linia-22.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "23",
-      "status": "suspended",
-      "dayTypes": [],
+      "status": "active",
+      "dayTypes": [
+        "robocze"
+      ],
       "file": "linia-23.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z",
-      "note": "Linia zawieszona - brak rozkładu na stronie gminy."
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "24",
@@ -199,7 +202,7 @@
         "robocze"
       ],
       "file": "linia-24.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "25",
@@ -208,7 +211,7 @@
         "robocze"
       ],
       "file": "linia-25.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     },
     {
       "line": "26",
@@ -217,7 +220,7 @@
         "robocze"
       ],
       "file": "linia-26.json",
-      "lastScrapedAt": "2026-08-04T20:51:16Z"
+      "lastScrapedAt": "2026-08-29T10:09:23Z"
     }
   ]
 }

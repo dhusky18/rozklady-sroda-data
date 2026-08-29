@@ -2,33 +2,48 @@
   "line": "18",
   "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-18/",
   "schedules": [
     {
       "dayType": "robocze",
-      "validFrom": "2026-06-29",
-      "validTo": "2026-08-31",
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-18.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 18 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 146 KB]",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-18.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 18 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 164 KB)",
       "directions": [
         {
-          "name": "Dworzec PKS → Łękno",
-          "origin": "Dworzec PKS",
+          "name": "Uwagi → Łękno",
+          "origin": "Uwagi",
           "destination": "Łękno",
           "courses": [
             "1",
             "2",
             "3",
-            "4"
+            "4",
+            "5",
+            "6"
           ],
           "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
             {
               "name": "Dworzec PKS",
               "times": [
                 "05:35",
+                "06:30",
                 "09:55",
                 "11:30",
+                "14:35",
                 "18:30"
               ]
             },
@@ -36,8 +51,10 @@
               "name": "20 Października",
               "times": [
                 "05:37",
+                "06:32",
                 "09:57",
                 "11:32",
+                "14:37",
                 "18:32"
               ]
             },
@@ -45,8 +62,10 @@
               "name": "Niedziałkowskiego/Almarco",
               "times": [
                 "05:38",
+                "06:33",
                 "09:58",
                 "11:33",
+                "14:38",
                 "18:33"
               ]
             },
@@ -54,8 +73,10 @@
               "name": "Kijewo/DW432",
               "times": [
                 "05:42",
+                "06:37",
                 "10:02",
                 "11:37",
+                "14:42",
                 "18:37"
               ]
             },
@@ -63,8 +84,10 @@
               "name": "Pętkowo/DW432",
               "times": [
                 "05:44",
+                "06:39",
                 "10:04",
                 "11:39",
+                "14:44",
                 "18:39"
               ]
             },
@@ -72,8 +95,10 @@
               "name": "Chwałkowo/DW432",
               "times": [
                 "05:46",
+                "06:41",
                 "10:06",
                 "11:41",
+                "14:46",
                 "18:41"
               ]
             },
@@ -81,8 +106,10 @@
               "name": "Pigłowice – skrzyżowanie",
               "times": [
                 "05:48",
+                "06:43",
                 "10:08",
                 "11:43",
+                "14:48",
                 "18:43"
               ]
             },
@@ -90,8 +117,10 @@
               "name": "Śnieciska – skrzyżowanie",
               "times": [
                 "05:50",
+                "06:45",
                 "10:10",
                 "11:45",
+                "14:50",
                 "18:45"
               ]
             },
@@ -99,8 +128,10 @@
               "name": "Luboniec – skrzyżowanie",
               "times": [
                 "05:52",
+                "06:47",
                 "10:12",
                 "11:47",
+                "14:52",
                 "18:47"
               ]
             },
@@ -108,8 +139,10 @@
               "name": "Zaniemyśl/Działki",
               "times": [
                 "05:54",
+                "06:49",
                 "10:14",
                 "11:49",
+                "14:54",
                 "18:49"
               ]
             },
@@ -117,8 +150,10 @@
               "name": "Zaniemyśl/Kościół",
               "times": [
                 "05:57",
+                null,
                 "10:17",
                 "11:52",
+                "14:57",
                 "18:52"
               ]
             },
@@ -126,8 +161,10 @@
               "name": "Zaniemyśl/Rynek",
               "times": [
                 "05:58",
+                "06:51",
                 "10:18",
                 "11:53",
+                "14:58",
                 "18:53"
               ]
             },
@@ -135,30 +172,47 @@
               "name": "Łękno",
               "times": [
                 "05:59",
+                "06:52",
                 "10:19",
                 "11:54",
+                "14:59",
                 "18:54"
               ]
             }
           ]
         },
         {
-          "name": "Łękno → Dworzec PKS",
-          "origin": "Łękno",
+          "name": "Uwagi → Dworzec PKS",
+          "origin": "Uwagi",
           "destination": "Dworzec PKS",
           "courses": [
             "1",
             "2",
             "3",
-            "4"
+            "4",
+            "5",
+            "6"
           ],
           "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
             {
               "name": "Łękno",
               "times": [
                 "05:09",
+                "06:57",
                 "10:19",
                 "11:59",
+                "15:00",
                 "19:00"
               ]
             },
@@ -166,8 +220,10 @@
               "name": "Zaniemyśl/Rynek",
               "times": [
                 "05:10",
+                "06:58",
                 "10:20",
                 "12:00",
+                "15:01",
                 "19:01"
               ]
             },
@@ -175,8 +231,10 @@
               "name": "Zaniemyśl/Kościół",
               "times": [
                 "05:11",
+                null,
                 "10:21",
                 "12:01",
+                "15:02",
                 "19:02"
               ]
             },
@@ -184,8 +242,10 @@
               "name": "Zaniemyśl/Działki",
               "times": [
                 "05:14",
+                "07:00",
                 "10:24",
                 "12:04",
+                "15:05",
                 "19:05"
               ]
             },
@@ -193,8 +253,10 @@
               "name": "Luboniec – skrzyżowanie",
               "times": [
                 "05:16",
+                "07:02",
                 "10:26",
                 "12:06",
+                "15:07",
                 "19:07"
               ]
             },
@@ -202,8 +264,10 @@
               "name": "Śnieciska – skrzyżowanie",
               "times": [
                 "05:18",
+                "07:04",
                 "10:28",
                 "12:08",
+                "15:09",
                 "19:09"
               ]
             },
@@ -211,8 +275,10 @@
               "name": "Pigłowice – skrzyżowanie",
               "times": [
                 "05:20",
+                "07:06",
                 "10:30",
                 "12:10",
+                "15:11",
                 "19:11"
               ]
             },
@@ -220,8 +286,10 @@
               "name": "Chwałkowo/DW432",
               "times": [
                 "05:22",
+                "07:08",
                 "10:32",
                 "12:12",
+                "15:13",
                 "19:13"
               ]
             },
@@ -229,8 +297,10 @@
               "name": "Pętkowo/DW432",
               "times": [
                 "05:23",
+                "07:09",
                 "10:33",
                 "12:13",
+                "15:14",
                 "19:14"
               ]
             },
@@ -238,8 +308,10 @@
               "name": "Kijewo/Hortex",
               "times": [
                 "05:25",
+                "07:11",
                 "10:35",
                 "12:15",
+                "15:16",
                 "19:16"
               ]
             },
@@ -247,8 +319,10 @@
               "name": "Niedziałkowskiego/Działki",
               "times": [
                 "05:29",
+                "07:15",
                 "10:39",
                 "12:19",
+                "15:20",
                 "19:20"
               ]
             },
@@ -256,8 +330,10 @@
               "name": "Niedziałkowskiego/Biedronka",
               "times": [
                 "05:30",
+                "07:16",
                 "10:40",
                 "12:20",
+                "15:21",
                 "19:21"
               ]
             },
@@ -265,8 +341,10 @@
               "name": "20 Października",
               "times": [
                 "05:31",
+                "07:17",
                 "10:41",
                 "12:21",
+                "15:22",
                 "19:22"
               ]
             },
@@ -274,8 +352,10 @@
               "name": "Dworzec PKS",
               "times": [
                 "05:33",
+                "07:19",
                 "10:43",
                 "12:23",
+                "15:24",
                 "19:24"
               ]
             }
@@ -285,10 +365,10 @@
     },
     {
       "dayType": "sobota",
-      "validFrom": "2025-09-01",
-      "validTo": "2026-08-31",
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2025/08/25.09.01-Soboty-linia-nr-18.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 18 w soboty obowiązujący od 1 września 2025 do 31 sierpnia 2026 roku [*.pdf, 97 KB]",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Soboty-linia-nr-18.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 18 w soboty obowiązujący od 1 września 2026 roku (*.pdf, 139 KB)",
       "directions": [
         {
           "name": "Dworzec PKS → Łękno",
@@ -534,10 +614,10 @@
     },
     {
       "dayType": "niedziela",
-      "validFrom": "2025-09-01",
-      "validTo": "2026-08-31",
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2025/08/25.09.01-Niedziele-linia-nr-18.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 18 w niedziele i święta obowiązujący od 1 września 2025 do 31 sierpnia 2026 roku [*.pdf, 118 KB]",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Niedziele-linia-nr-18.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 18 w niedziele i święta obowiązujący od 1 września 2026 roku (*.pdf, 202 KB)",
       "directions": [
         {
           "name": "Dworzec PKS → Łękno",

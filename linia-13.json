@@ -2,31 +2,51 @@
   "line": "13",
   "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-13/",
   "schedules": [
     {
       "dayType": "robocze",
-      "validFrom": "2026-06-29",
-      "validTo": "2026-08-31",
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-13.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 13 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 132 KB]",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-13.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 13 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 160 KB)",
       "directions": [
         {
-          "name": "Inwalidów Wojennych → Dębiczek/skrzyżowanie → Inwalidów Wojennych",
-          "origin": "Inwalidów Wojennych",
+          "name": "Uwagi → Inwalidów Wojennych",
+          "origin": "Uwagi",
           "destination": "Inwalidów Wojennych",
           "courses": [
             "1",
             "2",
-            "3"
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
           ],
           "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
             {
               "name": "Inwalidów Wojennych",
               "times": [
                 "06:10",
+                "07:00",
+                "07:28",
                 "10:50",
+                "12:50",
+                "14:50",
                 "15:45"
               ]
             },
@@ -34,7 +54,11 @@
               "name": "Wałowa/Kupiec Średzki",
               "times": [
                 "06:12",
+                "07:02",
+                "07:30",
                 "10:52",
+                "12:52",
+                "14:52",
                 "15:47"
               ]
             },
@@ -42,7 +66,11 @@
               "name": "Daszyńskiego/Park",
               "times": [
                 "06:13",
+                "07:03",
+                "07:31",
                 "10:53",
+                "12:53",
+                "14:53",
                 "15:48"
               ]
             },
@@ -50,7 +78,11 @@
               "name": "Nekielska/Cmentarz",
               "times": [
                 "06:14",
+                "07:04",
+                "07:32",
                 "10:54",
+                "12:54",
+                "14:54",
                 "15:49"
               ]
             },
@@ -58,7 +90,11 @@
               "name": "Nekielska",
               "times": [
                 "06:16",
+                "07:06",
+                "07:34",
                 "10:56",
+                "12:56",
+                "14:56",
                 "15:51"
               ]
             },
@@ -66,7 +102,11 @@
               "name": "Janowo",
               "times": [
                 "06:17",
+                "07:07",
+                "07:35",
                 "10:57",
+                "12:57",
+                "14:57",
                 "15:52"
               ]
             },
@@ -74,15 +114,35 @@
               "name": "Janowo I",
               "times": [
                 "06:18",
+                "07:08",
+                "07:36",
                 "10:58",
+                "12:58",
+                "14:58",
                 "15:53"
+              ]
+            },
+            {
+              "name": "Janowo/Dom Ludowy",
+              "times": [
+                null,
+                null,
+                "07:38",
+                null,
+                null,
+                null,
+                null
               ]
             },
             {
               "name": "Dębicz/Pałac",
               "times": [
                 "06:20",
+                "07:10",
+                null,
                 "11:00",
+                "13:00",
+                "15:00",
                 "15:55"
               ]
             },
@@ -90,7 +150,11 @@
               "name": "Dębicz",
               "times": [
                 "06:22",
+                "07:12",
+                null,
                 "11:02",
+                "13:02",
+                "15:02",
                 "15:57"
               ]
             },
@@ -98,7 +162,11 @@
               "name": "Dębicz/Osiedle",
               "times": [
                 "06:24",
+                "07:14",
+                null,
                 "11:04",
+                "13:04",
+                "15:04",
                 "15:59"
               ]
             },
@@ -106,7 +174,11 @@
               "name": "Dębicz/Stara Szkoła",
               "times": [
                 "06:25",
+                "07:15",
+                null,
                 "11:05",
+                "13:05",
+                "15:05",
                 "16:00"
               ]
             },
@@ -114,7 +186,11 @@
               "name": "Dębiczek/skrzyżowanie",
               "times": [
                 "06:26",
+                "07:16",
+                null,
                 "11:06",
+                "13:06",
+                "15:06",
                 "16:01"
               ]
             },
@@ -122,7 +198,11 @@
               "name": "Dębiczek",
               "times": [
                 "06:27",
+                "07:17",
+                null,
                 "11:07",
+                "13:07",
+                "15:07",
                 "16:02"
               ]
             },
@@ -130,7 +210,11 @@
               "name": "Dębiczek I",
               "times": [
                 "06:28",
+                "07:18",
+                null,
                 "11:08",
+                "13:08",
+                "15:08",
                 "16:03"
               ]
             },
@@ -138,7 +222,11 @@
               "name": "Mączniki/Osiedle",
               "times": [
                 "06:32",
+                "07:22",
+                null,
                 "11:12",
+                "13:12",
+                "15:12",
                 "16:07"
               ]
             },
@@ -146,7 +234,11 @@
               "name": "Mączniki",
               "times": [
                 "06:34",
+                "07:24",
+                "07:40",
                 "11:14",
+                "13:14",
+                "15:14",
                 "16:09"
               ]
             },
@@ -154,7 +246,11 @@
               "name": "Mączniki/Kościół",
               "times": [
                 "06:35",
+                "07:25",
+                "07:41",
                 "11:15",
+                "13:10",
+                "15:15",
                 "16:10"
               ]
             },
@@ -162,7 +258,11 @@
               "name": "Janowo/Plażowa",
               "times": [
                 "06:37",
+                "07:27",
+                "07:43",
                 "11:17",
+                "13:17",
+                "15:17",
                 "16:12"
               ]
             },
@@ -170,7 +270,11 @@
               "name": "Plażowa",
               "times": [
                 "06:38",
+                "07:28",
+                "07:44",
                 "11:18",
+                "13:18",
+                "15:18",
                 "16:13"
               ]
             },
@@ -178,7 +282,11 @@
               "name": "Nekielska/Cmentarz",
               "times": [
                 "06:41",
+                "07:31",
+                "07:47",
                 "11:21",
+                "13:21",
+                "15:21",
                 "16:16"
               ]
             },
@@ -186,7 +294,11 @@
               "name": "Jażdżewskiego/Węzeł",
               "times": [
                 "06:43",
+                "07:33",
+                null,
                 "11:23",
+                "13:23",
+                "15:23",
                 "16:18"
               ]
             },
@@ -194,7 +306,11 @@
               "name": "Limanowskiego/Biblioteka",
               "times": [
                 "06:45",
+                "07:35",
+                null,
                 "11:25",
+                "13:25",
+                "15:25",
                 "16:20"
               ]
             },
@@ -202,7 +318,11 @@
               "name": "Inwalidów Wojennych",
               "times": [
                 "06:47",
+                "07:37",
+                null,
                 "11:27",
+                "13:27",
+                null,
                 "16:22"
               ]
             }

@@ -2,31 +2,51 @@
   "line": "17",
   "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-17/",
   "schedules": [
     {
       "dayType": "robocze",
-      "validFrom": "2026-06-29",
-      "validTo": "2026-08-31",
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-17.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 17 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 129 KB]",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-17.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 17 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 165 KB)",
       "directions": [
         {
-          "name": "Dąbrowskiego/Szkoła → Dworzec PKS",
-          "origin": "Dąbrowskiego/Szkoła",
+          "name": "Uwagi → Dworzec PKS",
+          "origin": "Uwagi",
           "destination": "Dworzec PKS",
           "courses": [
             "1",
             "2",
-            "3"
+            "3",
+            "4",
+            "5",
+            "6",
+            "7"
           ],
           "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
             {
               "name": "Dąbrowskiego/Szkoła",
               "times": [
                 "06:45",
+                "06:52",
+                "07:55",
                 "11:00",
+                "13:55",
+                "15:40",
                 "16:25"
               ]
             },
@@ -34,7 +54,11 @@
               "name": "Żwirki i Wigury/Dino",
               "times": [
                 "06:46",
+                "06:53",
+                "07:56",
                 "11:01",
+                "13:56",
+                "15:41",
                 "16:26"
               ]
             },
@@ -42,7 +66,11 @@
               "name": "Wrzesińska/Działki",
               "times": [
                 "06:47",
+                "06:54",
+                "07:57",
                 "11:02",
+                "13:57",
+                "15:42",
                 "16:27"
               ]
             },
@@ -50,7 +78,11 @@
               "name": "Henrykowo/DW432",
               "times": [
                 "06:49",
+                "06:56",
+                "07:59",
                 "11:04",
+                "13:59",
+                "15:44",
                 "16:29"
               ]
             },
@@ -58,7 +90,11 @@
               "name": "Henrykowo",
               "times": [
                 "06:50",
+                "06:57",
+                "08:00",
                 "11:05",
+                "14:00",
+                "15:45",
                 "16:30"
               ]
             },
@@ -66,7 +102,11 @@
               "name": "Olszewo/Henrykowo",
               "times": [
                 "06:51",
+                "06:58",
+                "08:01",
                 "11:06",
+                "14:01",
+                "15:46",
                 "16:31"
               ]
             },
@@ -74,7 +114,11 @@
               "name": "Chudzice",
               "times": [
                 "06:54",
+                "07:01",
+                "08:04",
                 "11:09",
+                "14:04",
+                "15:49",
                 "16:34"
               ]
             },
@@ -82,7 +126,11 @@
               "name": "Brzezie/Chudzice",
               "times": [
                 "06:55",
+                "07:02",
+                "08:05",
                 "11:10",
+                "14:05",
+                "15:50",
                 "16:35"
               ]
             },
@@ -90,7 +138,11 @@
               "name": "Rumiejki",
               "times": [
                 "06:57",
+                "07:04",
+                "08:07",
                 "11:12",
+                "14:07",
+                "15:52",
                 "16:37"
               ]
             },
@@ -98,7 +150,11 @@
               "name": "Połażejewo",
               "times": [
                 "07:00",
+                "07:07",
+                "08:10",
                 "11:15",
+                "14:10",
+                "15:55",
                 "16:40"
               ]
             },
@@ -106,7 +162,11 @@
               "name": "Tadeuszewo",
               "times": [
                 "07:03",
+                "07:10",
+                "08:13",
                 "11:18",
+                "14:13",
+                "15:58",
                 "16:43"
               ]
             },
@@ -114,7 +174,11 @@
               "name": "Ulejno",
               "times": [
                 "07:06",
+                "07:13",
+                "08:16",
                 "11:21",
+                "14:16",
+                "16:01",
                 "16:46"
               ]
             },
@@ -122,7 +186,11 @@
               "name": "Tadeuszewo/DW432",
               "times": [
                 "07:10",
+                "07:17",
+                "08:20",
                 "11:25",
+                "14:20",
+                "16:05",
                 "16:50"
               ]
             },
@@ -130,7 +198,11 @@
               "name": "Ruszkowo I",
               "times": [
                 "07:12",
+                "07:19",
+                "08:22",
                 "11:27",
+                "14:22",
+                "16:07",
                 "16:52"
               ]
             },
@@ -138,15 +210,95 @@
               "name": "Ruszkowo II",
               "times": [
                 "07:14",
+                "07:21",
+                "08:24",
                 "11:29",
+                "14:24",
+                "16:09",
                 "16:54"
+              ]
+            },
+            {
+              "name": "Olszewo/Henrykowo",
+              "times": [
+                null,
+                "07:24",
+                "08:27",
+                null,
+                "14:27",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Olszewo/Osiedle",
+              "times": [
+                null,
+                "07:26",
+                "08:29",
+                null,
+                "14:29",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Olszewo",
+              "times": [
+                null,
+                "07:27",
+                "08:30",
+                null,
+                "14:30",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Harcerska/Źrenica",
+              "times": [
+                null,
+                "07:29",
+                "08:32",
+                null,
+                "14:32",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Brodowska/Szarych Szeregów",
+              "times": [
+                null,
+                "07:31",
+                "08:34",
+                null,
+                "14:34",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Brodowska/Bricomarche",
+              "times": [
+                null,
+                "07:32",
+                "08:35",
+                null,
+                "14:35",
+                null,
+                null
               ]
             },
             {
               "name": "Gnieźnieńska",
               "times": [
                 "07:15",
+                null,
+                null,
                 "11:30",
+                null,
+                "16:10",
                 "16:55"
               ]
             },
@@ -154,7 +306,11 @@
               "name": "Wrzesińska/Działki",
               "times": [
                 "07:17",
+                null,
+                null,
                 "11:32",
+                null,
+                "16:12",
                 "16:57"
               ]
             },
@@ -162,7 +318,11 @@
               "name": "Żwirki i Wigury/Szpital",
               "times": [
                 "07:18",
+                null,
+                null,
                 "11:33",
+                null,
+                "16:13",
                 "16:58"
               ]
             },
@@ -170,7 +330,11 @@
               "name": "Dąbrowskiego/Szkoła",
               "times": [
                 "07:19",
+                "07:35",
+                "08:38",
                 "11:34",
+                "14:38",
+                "16:14",
                 "16:59"
               ]
             },
@@ -178,6 +342,10 @@
               "name": "Dworzec PKS",
               "times": [
                 "07:23",
+                null,
+                null,
+                null,
+                null,
                 null,
                 null
               ]

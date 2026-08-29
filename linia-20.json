@@ -1,9 +1,348 @@
 {
   "line": "20",
-  "status": "suspended",
+  "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-20/",
-  "note": "Linia zawieszona - brak rozkładu na stronie gminy.",
-  "schedules": []
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-20.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 20 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 153 KB)",
+      "directions": [
+        {
+          "name": "Uwagi → Dworzec PKS",
+          "origin": "Uwagi",
+          "destination": "Dworzec PKS",
+          "courses": [
+            "1",
+            "2",
+            "3",
+            "4"
+          ],
+          "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Almarco",
+              "times": [
+                "06:30",
+                null,
+                null,
+                "15:30"
+              ]
+            },
+            {
+              "name": "Słupia Wielka/Szkoła",
+              "times": [
+                null,
+                null,
+                "13:05",
+                null
+              ]
+            },
+            {
+              "name": "Pętkowo",
+              "times": [
+                null,
+                null,
+                "13:09",
+                null
+              ]
+            },
+            {
+              "name": "Kijewo/Hortex",
+              "times": [
+                null,
+                null,
+                "13:12",
+                "15:34"
+              ]
+            },
+            {
+              "name": "Kijewo",
+              "times": [
+                "06:38",
+                null,
+                "13:14",
+                "15:36"
+              ]
+            },
+            {
+              "name": "Chwałkowo/Czartki",
+              "times": [
+                null,
+                null,
+                "13:16",
+                "15:38"
+              ]
+            },
+            {
+              "name": "Nadziejewo",
+              "times": [
+                null,
+                "07:25",
+                "13:19",
+                "15:41"
+              ]
+            },
+            {
+              "name": "Chwałkowo",
+              "times": [
+                null,
+                "07:28",
+                "13:22",
+                "15:44"
+              ]
+            },
+            {
+              "name": "Chwałkowo/Wieś",
+              "times": [
+                null,
+                "07:30",
+                "13:23",
+                "15:45"
+              ]
+            },
+            {
+              "name": "Strzeszki",
+              "times": [
+                null,
+                "07:32",
+                "13:26",
+                "15:48"
+              ]
+            },
+            {
+              "name": "Pętkowo I",
+              "times": [
+                null,
+                "07:34",
+                "13:28",
+                "15:50"
+              ]
+            },
+            {
+              "name": "Pętkowo II",
+              "times": [
+                null,
+                "07:36",
+                "13:30",
+                "15:52"
+              ]
+            },
+            {
+              "name": "Słupia Wielka/Szkoła",
+              "times": [
+                null,
+                "07:41",
+                "13:35",
+                "15:57"
+              ]
+            },
+            {
+              "name": "Niedziałkowskiego/Biedronka",
+              "times": [
+                "06:44",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Kościuszki/Szkoła",
+              "times": [
+                "06:48",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Dworzec PKS",
+              "times": [
+                "06:50",
+                null,
+                null,
+                null
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Uwagi → Słupia Wielka/Szkoła",
+          "origin": "Uwagi",
+          "destination": "Słupia Wielka/Szkoła",
+          "courses": [
+            "1",
+            "2",
+            "3"
+          ],
+          "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Słupia Wielka/Szkoła",
+              "times": [
+                "07:10",
+                "12:30",
+                "14:20"
+              ]
+            },
+            {
+              "name": "Koszuty/Osiedle",
+              "times": [
+                null,
+                "12:36",
+                "14:26"
+              ]
+            },
+            {
+              "name": "Koszuty/Kościół",
+              "times": [
+                "07:14",
+                "12:38",
+                "14:28"
+              ]
+            },
+            {
+              "name": "Brzeziny",
+              "times": [
+                null,
+                "12:42",
+                "14:32"
+              ]
+            },
+            {
+              "name": "Trzebisławki",
+              "times": [
+                "07:17",
+                "12:45",
+                "14:35"
+              ]
+            },
+            {
+              "name": "Trzebisławki/skrzyżowanie",
+              "times": [
+                "07:18",
+                "12:46",
+                "14:36"
+              ]
+            },
+            {
+              "name": "Trzebisławki/Wieś",
+              "times": [
+                "07:22",
+                "12:50",
+                "14:40"
+              ]
+            },
+            {
+              "name": "Koszuty Huby/DK11",
+              "times": [
+                null,
+                "12:56",
+                "14:46"
+              ]
+            },
+            {
+              "name": "Koszuty Huby",
+              "times": [
+                null,
+                "12:58",
+                "14:48"
+              ]
+            },
+            {
+              "name": "Brzeziny",
+              "times": [
+                "07:28",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Koszuty /Osiedle",
+              "times": [
+                "07:34",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Koszuty /Kościół",
+              "times": [
+                "07:36",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Koszuty/Lorenka",
+              "times": [
+                "07:38",
+                "13:02",
+                "14:52"
+              ]
+            },
+            {
+              "name": "Lorenka",
+              "times": [
+                null,
+                null,
+                "14:54"
+              ]
+            },
+            {
+              "name": "Annopole",
+              "times": [
+                null,
+                null,
+                "14:58"
+              ]
+            },
+            {
+              "name": "Annopole/Stara Szkoła",
+              "times": [
+                null,
+                null,
+                "15:00"
+              ]
+            },
+            {
+              "name": "Słupia Wielka/Sklep",
+              "times": [
+                null,
+                null,
+                "15:02"
+              ]
+            },
+            {
+              "name": "Słupia Wielka/Szkoła",
+              "times": [
+                "07:40",
+                "13:04",
+                "15:03"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

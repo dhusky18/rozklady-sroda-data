@@ -1,9 +1,550 @@
 {
   "line": "10",
-  "status": "suspended",
+  "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-10/",
-  "note": "Linia zawieszona - brak rozkładu na stronie gminy.",
-  "schedules": []
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-10.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 10 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 258 KB)",
+      "directions": [
+        {
+          "name": "Uwagi → Dąbrowskiego/Szkoła",
+          "origin": "Uwagi",
+          "destination": "Dąbrowskiego/Szkoła",
+          "courses": [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6"
+          ],
+          "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "06:26",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "27 Grudnia",
+              "times": [
+                "06:28",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Harcerska",
+              "times": [
+                "06:30",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Olszewo",
+              "times": [
+                "06:33",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pierzchno/skrzyżowanie",
+              "times": [
+                "06:35",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin/Poczta",
+              "times": [
+                "06:37",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin/Sklep",
+              "times": [
+                "06:40",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Starkówiec/Szkoła",
+              "times": [
+                "06:44",
+                "12:32",
+                null,
+                "13:48",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin/Sklep",
+              "times": [
+                null,
+                "12:36",
+                null,
+                "13:52",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin",
+              "times": [
+                null,
+                "12:37",
+                null,
+                "13:53",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin/Poczta",
+              "times": [
+                null,
+                "12:38",
+                null,
+                "13:54",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pierzchno",
+              "times": [
+                null,
+                "12:41",
+                null,
+                "13:57",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pierzchnica",
+              "times": [
+                null,
+                "12:42",
+                null,
+                "13:58",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin Huby",
+              "times": [
+                null,
+                "12:44",
+                null,
+                "14:00",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin Huby I",
+              "times": [
+                null,
+                "12:45",
+                null,
+                "14:01",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Starkówiec Piątkowski",
+              "times": [
+                null,
+                "12:46",
+                null,
+                "14:02",
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Starkówiec/Szkoła",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:05"
+              ]
+            },
+            {
+              "name": "Starkówiec Piątkowski I",
+              "times": [
+                "06:49",
+                "12:49",
+                null,
+                "14:05",
+                null,
+                "15:10"
+              ]
+            },
+            {
+              "name": "Starkówiec Piątkowski/Tartak",
+              "times": [
+                "06:51",
+                "12:51",
+                null,
+                "14:07",
+                null,
+                "15:12"
+              ]
+            },
+            {
+              "name": "Czarne Piątkowo/DK15",
+              "times": [
+                "06:54",
+                "12:54",
+                null,
+                "14:10",
+                null,
+                "15:15"
+              ]
+            },
+            {
+              "name": "Grójec/Żwirownia",
+              "times": [
+                "06:57",
+                "12:57",
+                null,
+                "14:13",
+                null,
+                "15:18"
+              ]
+            },
+            {
+              "name": "Grójec",
+              "times": [
+                "06:59",
+                "12:59",
+                null,
+                "14:15",
+                null,
+                "15:20"
+              ]
+            },
+            {
+              "name": "Czarne Piątkowo",
+              "times": [
+                "07:01",
+                "13:01",
+                null,
+                "14:17",
+                null,
+                "15:22"
+              ]
+            },
+            {
+              "name": "Starkówiec/Szkoła",
+              "times": [
+                "07:04",
+                "13:04",
+                "13:05",
+                "14:20",
+                "14:28",
+                null
+              ]
+            },
+            {
+              "name": "Winna Góra/Kościół",
+              "times": [
+                "07:08",
+                null,
+                "13:09",
+                null,
+                "14:32",
+                null
+              ]
+            },
+            {
+              "name": "Chocicza",
+              "times": [
+                "07:12",
+                null,
+                "13:13",
+                null,
+                "14:36",
+                null
+              ]
+            },
+            {
+              "name": "Brzezie",
+              "times": [
+                "07:14",
+                null,
+                "13:15",
+                null,
+                "14:38",
+                null
+              ]
+            },
+            {
+              "name": "Rumiejki",
+              "times": [
+                "07:20",
+                null,
+                "13:21",
+                null,
+                "14:44",
+                null
+              ]
+            },
+            {
+              "name": "Połażejewo",
+              "times": [
+                "07:23",
+                null,
+                "13:24",
+                null,
+                "14:47",
+                null
+              ]
+            },
+            {
+              "name": "Brzezie/Chudzice",
+              "times": [
+                "07:28",
+                null,
+                "13:29",
+                null,
+                null,
+                "15:30"
+              ]
+            },
+            {
+              "name": "Chudzice",
+              "times": [
+                "07:30",
+                null,
+                "13:31",
+                null,
+                null,
+                "15:31"
+              ]
+            },
+            {
+              "name": "Olszewo/Henrykowo",
+              "times": [
+                "07:33",
+                null,
+                "13:34",
+                null,
+                null,
+                "15:34"
+              ]
+            },
+            {
+              "name": "Pierzchno/skrzyżowanie",
+              "times": [
+                "07:38",
+                null,
+                "13:39",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                "14:54",
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin/Poczta",
+              "times": [
+                "07:40",
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Pierzchno",
+              "times": [
+                "07:43",
+                null,
+                null,
+                null,
+                "14:57",
+                null
+              ]
+            },
+            {
+              "name": "Pierzchnica",
+              "times": [
+                "07:44",
+                null,
+                null,
+                null,
+                "14:58",
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin Huby",
+              "times": [
+                "07:46",
+                null,
+                null,
+                null,
+                "15:00",
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin Huby I",
+              "times": [
+                "07:47",
+                null,
+                null,
+                null,
+                "15:01",
+                null
+              ]
+            },
+            {
+              "name": "Starkówiec Piątkowski",
+              "times": [
+                "07:48",
+                null,
+                null,
+                null,
+                "15:02",
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin/Sklep",
+              "times": [
+                null,
+                null,
+                "13:43",
+                null,
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Starkówiec/Szkoła",
+              "times": [
+                "07:50",
+                null,
+                "13:46",
+                null,
+                "15:04",
+                null
+              ]
+            },
+            {
+              "name": "Olszewo",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:37"
+              ]
+            },
+            {
+              "name": "Harcerska/Źrenica",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:40"
+              ]
+            },
+            {
+              "name": "27 Grudnia",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:43"
+              ]
+            },
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null,
+                "15:45"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

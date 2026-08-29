@@ -2,31 +2,45 @@
   "line": "15",
   "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-15/",
   "schedules": [
     {
       "dayType": "robocze",
-      "validFrom": "2026-06-29",
-      "validTo": "2026-08-31",
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.29-Dni-robocze-linia-nr-15.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 15 w dni robocze obowiązujący od 29 czerwca do 31 sierpnia 2026 roku [*.pdf, 130 KB]",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-15.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 15 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 152 KB)",
       "directions": [
         {
-          "name": "Dąbrowskiego/Szkoła → Brodowo/Kwiatowa II → Dąbrowskiego/Szkoła",
-          "origin": "Dąbrowskiego/Szkoła",
+          "name": "Uwagi → Dąbrowskiego/Szkoła",
+          "origin": "Uwagi",
           "destination": "Dąbrowskiego/Szkoła",
           "courses": [
             "1",
             "2",
-            "3"
+            "3",
+            "4",
+            "5"
           ],
           "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null,
+                null,
+                null,
+                null
+              ]
+            },
             {
               "name": "Dąbrowskiego/Szkoła",
               "times": [
                 "06:00",
+                "06:57",
                 "10:15",
+                "14:55",
                 "16:25"
               ]
             },
@@ -34,7 +48,9 @@
               "name": "Brodowska/Rodak",
               "times": [
                 "06:03",
+                "07:00",
                 "10:18",
+                "14:58",
                 "16:28"
               ]
             },
@@ -42,7 +58,9 @@
               "name": "Włostowo",
               "times": [
                 "06:06",
+                "07:03",
                 "10:21",
+                "15:01",
                 "16:31"
               ]
             },
@@ -50,7 +68,9 @@
               "name": "Brodowo/DK11",
               "times": [
                 "06:08",
+                "07:05",
                 "10:23",
+                "15:03",
                 "16:33"
               ]
             },
@@ -58,7 +78,9 @@
               "name": "Brodowo/Słoneczna",
               "times": [
                 "06:09",
+                "07:06",
                 "10:24",
+                "15:04",
                 "16:34"
               ]
             },
@@ -66,7 +88,9 @@
               "name": "Marianowo Brodowskie",
               "times": [
                 "06:11",
+                "07:08",
                 "10:26",
+                "15:06",
                 "16:36"
               ]
             },
@@ -74,7 +98,9 @@
               "name": "Brodowo/Parkowa",
               "times": [
                 "06:15",
+                "07:12",
                 "10:30",
+                "15:10",
                 "16:40"
               ]
             },
@@ -82,7 +108,9 @@
               "name": "Nietrzanowo",
               "times": [
                 "06:17",
+                "07:14",
                 "10:32",
+                "15:12",
                 "16:42"
               ]
             },
@@ -90,7 +118,9 @@
               "name": "Brodowo/Parkowa",
               "times": [
                 "06:19",
+                "07:16",
                 "10:34",
+                null,
                 "16:44"
               ]
             },
@@ -98,7 +128,9 @@
               "name": "Brodowo/DK11",
               "times": [
                 "06:22",
+                "07:19",
                 "10:37",
+                null,
                 "16:47"
               ]
             },
@@ -106,7 +138,9 @@
               "name": "Brodowo/Kwiatowa I",
               "times": [
                 "06:23",
+                "07:20",
                 "10:38",
+                null,
                 "16:48"
               ]
             },
@@ -114,7 +148,9 @@
               "name": "Brodowo/Kwiatowa II",
               "times": [
                 "06:24",
+                "07:21",
                 "10:39",
+                null,
                 "16:49"
               ]
             },
@@ -122,7 +158,9 @@
               "name": "Chwałkowo/Przejazd kolejowy",
               "times": [
                 "06:25",
+                "07:22",
                 "10:40",
+                null,
                 "16:50"
               ]
             },
@@ -130,7 +168,9 @@
               "name": "Nadziejewo",
               "times": [
                 "06:28",
+                "07:25",
                 "10:43",
+                null,
                 "16:53"
               ]
             },
@@ -138,7 +178,9 @@
               "name": "Chwałkowo",
               "times": [
                 "06:31",
+                null,
                 "10:46",
+                null,
                 "16:56"
               ]
             },
@@ -146,7 +188,9 @@
               "name": "Chwałkowo/Wieś",
               "times": [
                 "06:32",
+                null,
                 "10:47",
+                null,
                 "16:57"
               ]
             },
@@ -154,7 +198,9 @@
               "name": "Strzeszki",
               "times": [
                 "06:35",
+                null,
                 "10:50",
+                null,
                 "17:00"
               ]
             },
@@ -162,7 +208,9 @@
               "name": "Pętkowo I",
               "times": [
                 "06:36",
+                null,
                 "10:51",
+                null,
                 "17:01"
               ]
             },
@@ -170,7 +218,9 @@
               "name": "Pętkowo II",
               "times": [
                 "06:37",
+                null,
                 "10:52",
+                null,
                 "17:02"
               ]
             },
@@ -178,7 +228,9 @@
               "name": "Niedziałkowskiego/Działki",
               "times": [
                 "06:41",
+                null,
                 "10:56",
+                null,
                 "17:06"
               ]
             },
@@ -186,15 +238,69 @@
               "name": "Niedziałkowskiego/Biedronka",
               "times": [
                 "06:42",
+                null,
                 "10:57",
+                null,
                 "17:07"
+              ]
+            },
+            {
+              "name": "Pierzchno/skrzyżowanie",
+              "times": [
+                null,
+                null,
+                null,
+                "15:18",
+                null
+              ]
+            },
+            {
+              "name": "Olszewo",
+              "times": [
+                null,
+                null,
+                null,
+                "15:20",
+                null
+              ]
+            },
+            {
+              "name": "Harcerska/Źrenica",
+              "times": [
+                null,
+                null,
+                null,
+                "15:22",
+                null
+              ]
+            },
+            {
+              "name": "Brodowska/Szarych Szeregów",
+              "times": [
+                null,
+                null,
+                null,
+                "15:24",
+                null
+              ]
+            },
+            {
+              "name": "Brodowska/Bricomarche",
+              "times": [
+                null,
+                null,
+                null,
+                "15:25",
+                null
               ]
             },
             {
               "name": "Dąbrowskiego/Szkoła",
               "times": [
                 "06:43",
+                null,
                 "10:58",
+                "15:27",
                 "17:08"
               ]
             }

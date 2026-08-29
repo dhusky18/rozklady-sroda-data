@@ -2,15 +2,15 @@
   "line": "2",
   "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-2/",
   "schedules": [
     {
       "dayType": "robocze",
-      "validFrom": "2026-06-15",
-      "validTo": "2026-08-30",
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/06/26.06.15-Dni-robocze-linia-nr-2.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 2 w dni robocze obowiązujący od 15 czerwca do 30 sierpnia 2026 roku [*.pdf, 142 KB]",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-2.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 2 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 131 KB)",
       "directions": [
         {
           "name": "PKP → Inwalidów Wojennych",
@@ -18,90 +18,63 @@
           "destination": "Inwalidów Wojennych",
           "courses": [
             "1",
-            "2",
-            "3",
-            "4",
-            "5"
+            "2"
           ],
           "stops": [
             {
               "name": "PKP – kierunek Poznań",
               "times": [
-                null,
-                "15:13",
-                null,
-                "18:13",
-                "19:29"
+                "15:27",
+                null
               ]
             },
             {
               "name": "PKP – kierunek Jarocin",
               "times": [
-                "07:56",
                 "15:19",
-                "17:21",
-                "18:20",
-                null
+                "17:29"
               ]
             },
             {
               "name": "Dworzec PKP",
               "times": [
-                "08:07",
-                "15:24",
-                "17:25",
-                "18:23",
-                "19:31"
+                "15:31",
+                "17:33"
               ]
             },
             {
               "name": "Niedziałkowskiego/Działki",
               "times": [
-                "08:08",
-                "15:25",
-                "17:26",
-                "18:24",
-                "19:32"
+                "15:32",
+                "17:34"
               ]
             },
             {
               "name": "Niedziałkowskiego/Biedronka",
               "times": [
-                "08:09",
-                "15:26",
-                "17:27",
-                "18:25",
-                "19:33"
+                "15:33",
+                "17:35"
               ]
             },
             {
               "name": "Żwirki i Wigury/Dino",
               "times": [
-                "08:11",
-                "15:28",
-                "17:29",
-                "18:27",
-                "19:35"
+                "15:35",
+                "17:37"
               ]
             },
             {
               "name": "Czerwonego Krzyża/Ośrodek Zdrowia",
               "times": [
-                "08:12",
-                "15:29",
-                "17:30",
-                "18:28",
-                "19:36"
+                "15:36",
+                "17:38"
               ]
             },
             {
               "name": "Inwalidów Wojennych",
               "times": [
-                "08:13",
-                "15:30",
-                "17:31",
-                "18:29",
-                "19:37"
+                "15:37",
+                "17:39"
               ]
             }
           ]
@@ -116,9 +89,7 @@
             "3",
             "4",
             "5",
-            "6",
-            "7",
-            "8"
+            "6"
           ],
           "stops": [
             {
@@ -127,11 +98,9 @@
                 "05:30",
                 "06:40",
                 "10:20",
-                "12:38",
-                "14:48",
-                "17:43",
-                "18:05",
-                "19:38"
+                "14:10",
+                "16:00",
+                "17:15"
               ]
             },
             {
@@ -140,11 +109,9 @@
                 "05:32",
                 "06:42",
                 "10:22",
-                "12:40",
-                "14:50",
-                "17:45",
-                "18:07",
-                "19:40"
+                "14:12",
+                "16:02",
+                "17:17"
               ]
             },
             {
@@ -153,11 +120,9 @@
                 "05:33",
                 "06:43",
                 "10:23",
-                "12:41",
-                "14:51",
-                "17:46",
-                "18:08",
-                "19:41"
+                "14:13",
+                "16:03",
+                "17:18"
               ]
             },
             {
@@ -166,11 +131,9 @@
                 "05:35",
                 "06:45",
                 "10:25",
-                "12:43",
-                "14:53",
-                "17:48",
-                "18:10",
-                "19:43"
+                "14:15",
+                "16:05",
+                "17:20"
               ]
             },
             {
@@ -179,11 +142,9 @@
                 "05:36",
                 "06:46",
                 "10:26",
-                "12:44",
-                "14:54",
-                "17:49",
-                "18:11",
-                "19:44"
+                "14:16",
+                "16:06",
+                "17:21"
               ]
             },
             {
@@ -192,37 +153,31 @@
                 "05:37",
                 "06:47",
                 "10:27",
-                "12:45",
-                "14:55",
-                "17:50",
-                "18:12",
-                "19:45"
+                "14:17",
+                "16:07",
+                "17:22"
               ]
             },
             {
               "name": "PKP – kierunek Poznań",
               "times": [
-                "05:44",
+                "05:43",
                 "06:57",
                 "10:41",
-                "12:50",
-                "15:13",
-                "17:58",
-                null,
-                "19:48"
+                "14:25",
+                "16:21",
+                "17:35"
               ]
             },
             {
               "name": "PKP – kierunek Jarocin",
               "times": [
                 null,
-                "07:06",
+                "07:05",
+                "10:47",
                 null,
                 null,
-                "15:01",
-                null,
-                "18:20",
-                null
+                "17:29"
               ]
             }
           ]

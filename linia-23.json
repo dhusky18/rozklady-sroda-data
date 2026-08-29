@@ -1,9 +1,333 @@
 {
   "line": "23",
-  "status": "suspended",
+  "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-04T20:51:16Z",
+  "lastScrapedAt": "2026-08-29T10:09:23Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-23/",
-  "note": "Linia zawieszona - brak rozkładu na stronie gminy.",
-  "schedules": []
+  "schedules": [
+    {
+      "dayType": "robocze",
+      "validFrom": "2026-09-01",
+      "validTo": null,
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-23.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 23 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 141 KB)",
+      "directions": [
+        {
+          "name": "Uwagi → Starkówiec/Szkoła",
+          "origin": "Uwagi",
+          "destination": "Starkówiec/Szkoła",
+          "courses": [
+            "1",
+            "2"
+          ],
+          "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Lipowa/Szkoła",
+              "times": [
+                "07:30",
+                "13:55"
+              ]
+            },
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "07:32",
+                "13:57"
+              ]
+            },
+            {
+              "name": "Brodowska/Wieża ciśnień",
+              "times": [
+                "07:33",
+                "13:58"
+              ]
+            },
+            {
+              "name": "Brodowska/Rodak",
+              "times": [
+                "07:35",
+                "14:00"
+              ]
+            },
+            {
+              "name": "Włostowo",
+              "times": [
+                "07:38",
+                "14:03"
+              ]
+            },
+            {
+              "name": "Brodowo/DK11",
+              "times": [
+                "07:40",
+                "14:05"
+              ]
+            },
+            {
+              "name": "Brodowo/Parkowa",
+              "times": [
+                "07:43",
+                "14:08"
+              ]
+            },
+            {
+              "name": "Nietrzanowo",
+              "times": [
+                "07:45",
+                "14:10"
+              ]
+            },
+            {
+              "name": "Szlachcin/Sklep",
+              "times": [
+                "07:50",
+                null
+              ]
+            },
+            {
+              "name": "Szlachcin Huby",
+              "times": [
+                null,
+                "14:14"
+              ]
+            },
+            {
+              "name": "Szlachcin Huby I",
+              "times": [
+                null,
+                "14:15"
+              ]
+            },
+            {
+              "name": "Starkówiec Piątkowski",
+              "times": [
+                null,
+                "14:16"
+              ]
+            },
+            {
+              "name": "Starkówiec/Szkoła",
+              "times": [
+                "07:53",
+                "14:18"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Uwagi → Weychana/Akademia",
+          "origin": "Uwagi",
+          "destination": "Weychana/Akademia",
+          "courses": [
+            "1"
+          ],
+          "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null
+              ]
+            },
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "07:07"
+              ]
+            },
+            {
+              "name": "Brodowska/Wieża ciśnień",
+              "times": [
+                "07:08"
+              ]
+            },
+            {
+              "name": "Brodowska/Rodak",
+              "times": [
+                "07:10"
+              ]
+            },
+            {
+              "name": "Włostowo",
+              "times": [
+                "07:13"
+              ]
+            },
+            {
+              "name": "Brodowo/DK11",
+              "times": [
+                "07:15"
+              ]
+            },
+            {
+              "name": "Marianowo Brodowskie",
+              "times": [
+                "07:20"
+              ]
+            },
+            {
+              "name": "Brodowo/Słoneczna",
+              "times": [
+                "07:22"
+              ]
+            },
+            {
+              "name": "Brodowo/DK11",
+              "times": [
+                "07:24"
+              ]
+            },
+            {
+              "name": "Włostowo",
+              "times": [
+                "07:26"
+              ]
+            },
+            {
+              "name": "Brodowska/Bricomarche",
+              "times": [
+                "07:29"
+              ]
+            },
+            {
+              "name": "Brodowska/Wieża ciśnień",
+              "times": [
+                "07:31"
+              ]
+            },
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "07:32"
+              ]
+            },
+            {
+              "name": "Lipowa/Szkoła",
+              "times": [
+                "07:34"
+              ]
+            },
+            {
+              "name": "Kościuszki/Szkoła",
+              "times": [
+                "07:38"
+              ]
+            },
+            {
+              "name": "Paderewskiego/Pływalnia",
+              "times": [
+                "07:40"
+              ]
+            },
+            {
+              "name": "Kórnicka/Szkoła",
+              "times": [
+                "07:42"
+              ]
+            },
+            {
+              "name": "Weychana/Akademia",
+              "times": [
+                "07:43"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Uwagi → Lipowa/Szkoła",
+          "origin": "Uwagi",
+          "destination": "Lipowa/Szkoła",
+          "courses": [
+            "1",
+            "2"
+          ],
+          "stops": [
+            {
+              "name": "Uwagi",
+              "times": [
+                null,
+                null
+              ]
+            },
+            {
+              "name": "Starkówiec/Szkoła",
+              "times": [
+                "08:00",
+                "14:22"
+              ]
+            },
+            {
+              "name": "Szlachcin/Sklep",
+              "times": [
+                "08:03",
+                "14:25"
+              ]
+            },
+            {
+              "name": "Nietrzanowo",
+              "times": [
+                "08:08",
+                "14:30"
+              ]
+            },
+            {
+              "name": "Brodowo/Parkowa",
+              "times": [
+                "08:10",
+                "14:32"
+              ]
+            },
+            {
+              "name": "Brodowo/DK11",
+              "times": [
+                "08:13",
+                "14:35"
+              ]
+            },
+            {
+              "name": "Włostowo",
+              "times": [
+                "08:15",
+                "14:37"
+              ]
+            },
+            {
+              "name": "Brodowska/Bricomarche",
+              "times": [
+                "08:18",
+                "14:40"
+              ]
+            },
+            {
+              "name": "Brodowska/Wieża ciśnień",
+              "times": [
+                "08:20",
+                "14:42"
+              ]
+            },
+            {
+              "name": "Dąbrowskiego/Szkoła",
+              "times": [
+                "08:21",
+                "14:43"
+              ]
+            },
+            {
+              "name": "Lipowa/Szkoła",
+              "times": [
+                "08:23",
+                "14:45"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }
