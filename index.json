@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-29T10:09:23Z",
+  "lastUpdated": "2026-10-24T08:11:47Z",
   "source": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/",
   "lines": [
     {
@@ -9,7 +9,7 @@
         "robocze"
       ],
       "file": "linia-1.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "2",
@@ -18,7 +18,7 @@
         "robocze"
       ],
       "file": "linia-2.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "4",
@@ -27,7 +27,7 @@
         "robocze"
       ],
       "file": "linia-4.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "5",
@@ -36,7 +36,7 @@
         "robocze"
       ],
       "file": "linia-5.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "6",
@@ -45,7 +45,7 @@
         "robocze"
       ],
       "file": "linia-6.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "7",
@@ -54,7 +54,7 @@
         "robocze"
       ],
       "file": "linia-7.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "8",
@@ -63,7 +63,7 @@
         "robocze"
       ],
       "file": "linia-8.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "10",
@@ -146,7 +146,7 @@
         "niedziela"
       ],
       "file": "linia-18.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "19",
@@ -157,7 +157,7 @@
         "niedziela"
       ],
       "file": "linia-19.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     },
     {
       "line": "20",
@@ -220,7 +220,7 @@
         "robocze"
       ],
       "file": "linia-26.json",
-      "lastScrapedAt": "2026-08-29T10:09:23Z"
+      "lastScrapedAt": "2026-10-24T08:11:47Z"
     }
   ]
 }

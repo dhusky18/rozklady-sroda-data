@@ -2,20 +2,20 @@
   "line": "19",
   "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-29T10:09:23Z",
+  "lastScrapedAt": "2026-10-24T08:11:47Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-19/",
   "schedules": [
     {
       "dayType": "robocze",
-      "validFrom": "2026-09-01",
+      "validFrom": "2026-10-26",
       "validTo": null,
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-19.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 19 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 130 KB)",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/10/26.10.26-Dni-robocze-linia-nr-19.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 19 w dni robocze obowiązujący od 26 października 2026 roku (*.pdf, 196 KB)",
       "directions": [
         {
-          "name": "Dworzec PKS → Zaniemyśl/Kościól → Dworzec PKS",
+          "name": "Dworzec PKS → Łękno",
           "origin": "Dworzec PKS",
-          "destination": "Dworzec PKS",
+          "destination": "Łękno",
           "courses": [
             "1"
           ],
@@ -39,103 +39,97 @@
               ]
             },
             {
+              "name": "Dworzec PKP",
+              "times": [
+                "17:06"
+              ]
+            },
+            {
               "name": "Kijewo/Hortex",
               "times": [
-                "17:08"
+                "17:10"
               ]
             },
             {
               "name": "Kijewo",
               "times": [
-                "17:09"
+                "17:12"
               ]
             },
             {
               "name": "Chwałkowo/Czartki",
               "times": [
-                "17:12"
+                "17:15"
               ]
             },
             {
               "name": "Nadziejewo",
               "times": [
-                "17:15"
+                "17:18"
               ]
             },
             {
               "name": "Kaźmierki",
               "times": [
-                "17:17"
+                "17:20"
               ]
             },
             {
               "name": "Mądre",
               "times": [
-                "17:19"
+                "17:22"
               ]
             },
             {
               "name": "Wyszakowo",
               "times": [
-                "17:22"
+                "17:25"
               ]
             },
             {
               "name": "Wyszakowskie Huby",
               "times": [
-                "17:24"
+                "17:27"
               ]
             },
             {
               "name": "Brzostek",
               "times": [
-                "17:26"
+                "17:29"
               ]
             },
             {
               "name": "Czarnotki/Pętla",
               "times": [
-                "17:29"
-              ]
-            },
-            {
-              "name": "Lubonieczek/Błękitna",
-              "times": [
-                "17:31"
-              ]
-            },
-            {
-              "name": "Lubonieczek/Jaśminowa",
-              "times": [
                 "17:32"
               ]
             },
             {
-              "name": "Lubonieczek/Miodowa",
+              "name": "Lubonieczek /Błękitna",
               "times": [
                 "17:34"
               ]
             },
             {
-              "name": "Zaniemyśl/Topolowa",
+              "name": "Lubonieczek /Jaśminowa",
               "times": [
-                "17:36"
+                "17:35"
               ]
             },
             {
-              "name": "Zaniemyśl/Kościól",
+              "name": "Lubonieczek/Miodowa",
               "times": [
                 "17:37"
               ]
             },
             {
-              "name": "Zaniemyśl/Rynek",
+              "name": "Zaniemyśl/Topolowa",
               "times": [
                 "17:39"
               ]
             },
             {
-              "name": "Łękno",
+              "name": "Zaniemyśl/Kościól",
               "times": [
                 "17:40"
               ]
@@ -147,87 +141,115 @@
               ]
             },
             {
-              "name": "Zaniemyśl/Działki",
+              "name": "Łękno",
               "times": [
-                "17:44"
+                "17:43"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Łękno → Dworzec PKS",
+          "origin": "Łękno",
+          "destination": "Dworzec PKS",
+          "courses": [
+            "1"
+          ],
+          "stops": [
+            {
+              "name": "Łękno",
+              "times": [
+                "17:45"
               ]
             },
             {
-              "name": "Polwica I",
-              "times": [
-                "17:46"
-              ]
-            },
-            {
-              "name": "Polwica",
+              "name": "Zaniemyśl/Rynek",
               "times": [
                 "17:47"
               ]
             },
             {
-              "name": "Dobroczyn",
+              "name": "Zaniemyśl/Działki",
               "times": [
-                "17:48"
+                "17:49"
               ]
             },
             {
-              "name": "Śnieciska II",
-              "times": [
-                "17:50"
-              ]
-            },
-            {
-              "name": "Śnieciska",
+              "name": "Polwica I",
               "times": [
                 "17:51"
               ]
             },
             {
-              "name": "Jaszkowo",
+              "name": "Polwica",
               "times": [
-                "17:54"
+                "17:52"
               ]
             },
             {
-              "name": "Annopole",
+              "name": "Dobroczyn",
+              "times": [
+                "17:53"
+              ]
+            },
+            {
+              "name": "Śnieciska II",
+              "times": [
+                "17:55"
+              ]
+            },
+            {
+              "name": "Śnieciska",
               "times": [
                 "17:56"
               ]
             },
             {
-              "name": "Annopole/Stara Szkoła",
-              "times": [
-                "17:57"
-              ]
-            },
-            {
-              "name": "Słupia Wielka/Sklep",
+              "name": "Jaszkowo",
               "times": [
                 "17:59"
               ]
             },
             {
-              "name": "Żabikowo",
+              "name": "Annopole",
+              "times": [
+                "18:01"
+              ]
+            },
+            {
+              "name": "Annopole/Stara Szkoła",
               "times": [
                 "18:02"
               ]
             },
             {
-              "name": "Kórnicka/Solaris",
+              "name": "Słupia Wielka/Sklep",
               "times": [
-                "18:06"
+                "18:04"
               ]
             },
             {
-              "name": "Paderewskiego/Jackowskiego",
+              "name": "Żabikowo",
               "times": [
                 "18:07"
               ]
             },
             {
+              "name": "Kórnicka/Solaris",
+              "times": [
+                "18:11"
+              ]
+            },
+            {
+              "name": "Paderewskiego/Jackowskiego",
+              "times": [
+                "18:12"
+              ]
+            },
+            {
               "name": "Dworzec PKS",
               "times": [
-                "18:08"
+                "18:13"
               ]
             }
           ]

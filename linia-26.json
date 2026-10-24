@@ -2,15 +2,15 @@
   "line": "26",
   "status": "active",
   "parserVersion": 2,
-  "lastScrapedAt": "2026-08-29T10:09:23Z",
+  "lastScrapedAt": "2026-10-24T08:11:47Z",
   "sourcePage": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/linia-nr-26/",
   "schedules": [
     {
       "dayType": "robocze",
-      "validFrom": "2026-09-01",
+      "validFrom": "2026-10-26",
       "validTo": null,
-      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/08/26.09.01-Dni-robocze-linia-nr-26.pdf",
-      "sourceLabel": "Rozkład jazdy linii nr 26 w dni robocze obowiązujący od 1 września 2026 roku (*.pdf, 208 KB)",
+      "sourceUrl": "https://autobusy.sroda.wlkp.pl/wp-content/uploads/2026/10/26.10.26-Dni-robocze-linia-nr-26.pdf",
+      "sourceLabel": "Rozkład jazdy linii nr 26 w dni robocze obowiązujący od 26 października 2026 roku (*.pdf, 209 KB)",
       "directions": [
         {
           "name": "Kórnicka/Szkoła → Łękno",
@@ -57,66 +57,73 @@
               ]
             },
             {
+              "name": "Dworzec PKP",
+              "times": [
+                null,
+                "15:36"
+              ]
+            },
+            {
               "name": "Kijewo/DW432",
               "times": [
                 "06:32",
-                "15:37"
+                "15:40"
               ]
             },
             {
               "name": "Pętkowo/DW432",
               "times": [
                 "06:34",
-                "15:39"
+                "15:42"
               ]
             },
             {
               "name": "Chwałkowo/DW432",
               "times": [
                 "06:36",
-                "15:41"
+                "15:44"
               ]
             },
             {
               "name": "Pigłowice – skrzyżowanie",
               "times": [
                 "06:38",
-                "15:43"
+                "15:46"
               ]
             },
             {
               "name": "Śnieciska – skrzyżowanie",
               "times": [
                 "06:40",
-                "15:45"
+                "15:48"
               ]
             },
             {
               "name": "Luboniec – skrzyżowanie",
               "times": [
                 "06:42",
-                "15:47"
+                "15:50"
               ]
             },
             {
               "name": "Zaniemyśl/Działki",
               "times": [
                 "06:44",
-                "15:49"
+                "15:52"
               ]
             },
             {
               "name": "Zaniemyśl/Rynek",
               "times": [
                 "06:46",
-                "15:51"
+                "15:54"
               ]
             },
             {
               "name": "Łękno",
               "times": [
                 "06:47",
-                "15:52"
+                "15:55"
               ]
             }
           ]
@@ -134,161 +141,161 @@
               "name": "Łękno",
               "times": [
                 "06:50",
-                "15:53"
+                "15:56"
               ]
             },
             {
               "name": "Zaniemyśl/Rynek",
               "times": [
                 "06:52",
-                "15:55"
+                "15:58"
               ]
             },
             {
               "name": "Zaniemyśl/Kościół",
               "times": [
                 "06:54",
-                "15:57"
+                "16:00"
               ]
             },
             {
               "name": "Zaniemyśl/Topolowa",
               "times": [
                 "06:55",
-                "15:58"
+                "16:01"
               ]
             },
             {
               "name": "Lubonieczek/Miodowa",
               "times": [
                 "06:57",
-                "16:00"
+                "16:03"
               ]
             },
             {
               "name": "Lubonieczek/Jaśminowa",
               "times": [
                 "06:59",
-                "16:02"
+                "16:05"
               ]
             },
             {
               "name": "Lubonieczek/Bluszczowa",
               "times": [
                 "07:00",
-                "16:03"
+                "16:06"
               ]
             },
             {
               "name": "Czarnotki/Pętla",
               "times": [
                 "07:02",
-                "16:05"
+                "16:08"
               ]
             },
             {
               "name": "Młodzikówko",
               "times": [
                 "07:08",
-                "16:11"
+                "16:14"
               ]
             },
             {
               "name": "Młodzikowo",
               "times": [
                 "07:11",
-                "16:14"
+                "16:17"
               ]
             },
             {
               "name": "Sulęcin I",
               "times": [
                 "07:14",
-                "16:17"
+                "16:20"
               ]
             },
             {
               "name": "Sulęcin",
               "times": [
                 "07:16",
-                "16:19"
+                "16:22"
               ]
             },
             {
               "name": "Sulęcinek II",
               "times": [
                 "07:19",
-                "16:22"
+                "16:25"
               ]
             },
             {
               "name": "Borowo",
               "times": [
                 "07:21",
-                "16:24"
+                "16:27"
               ]
             },
             {
               "name": "Garby",
               "times": [
                 "07:24",
-                "16:27"
+                "16:30"
               ]
             },
             {
               "name": "Nadziejewo",
               "times": [
                 "07:28",
-                "16:31"
+                "16:34"
               ]
             },
             {
               "name": "Chwałkowo/Czartki",
               "times": [
                 "07:30",
-                "16:33"
+                "16:36"
               ]
             },
             {
               "name": "Kijewo",
               "times": [
                 "07:33",
-                "16:36"
+                "16:39"
               ]
             },
             {
               "name": "Kijewo/Hortex",
               "times": [
                 "07:34",
-                "16:37"
+                "16:40"
               ]
             },
             {
               "name": "Niedziałkowskiego/Działki",
               "times": [
                 "07:38",
-                "16:41"
+                "16:44"
               ]
             },
             {
               "name": "Niedziałkowskiego/Biedronka",
               "times": [
                 "07:39",
-                "16:42"
+                "16:45"
               ]
             },
             {
               "name": "20 Października",
               "times": [
                 "07:40",
-                "16:43"
+                "16:46"
               ]
             },
             {
               "name": "Dworzec PKS",
               "times": [
                 "07:42",
-                "16:45"
+                "16:48"
               ]
             },
             {
