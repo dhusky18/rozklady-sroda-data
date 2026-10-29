@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-24T08:11:47Z",
+  "lastUpdated": "2026-10-29T10:03:17Z",
   "source": "https://autobusy.sroda.wlkp.pl/rozklad-jazdy/",
   "lines": [
     {
@@ -54,7 +54,7 @@
         "robocze"
       ],
       "file": "linia-7.json",
-      "lastScrapedAt": "2026-10-24T08:11:47Z"
+      "lastScrapedAt": "2026-10-29T10:03:17Z"
     },
     {
       "line": "8",
